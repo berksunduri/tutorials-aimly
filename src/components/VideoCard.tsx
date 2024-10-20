@@ -17,7 +17,7 @@ export default function VideoCard({ tutorial }: VideoCardProps) {
   return (
     <Card className="w-full max-w-md">
       <CardHeader>
-        <CardTitle>{tutorial.title}</CardTitle>
+        <CardTitle className="text-foreground">{tutorial.title}</CardTitle>
       </CardHeader>
       <CardContent>
         <Collapsible open={isOpen} onOpenChange={setIsOpen}>
