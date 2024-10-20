@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import tutorials from './data/tutorials.json'
+import tutorials from './data/firstWeek.json'
 import VideoCard from './components/VideoCard'
 import { Input } from "./components/ui/input"
 import { Button } from "./components/ui/button"
