@@ -30,6 +30,7 @@ function App() {
             size="icon"
             onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
             aria-label="Toggle dark mode"
+            className="bg-accent text-accent-foreground hover:bg-accent/90"
           >
             {mounted && (theme === 'dark' ? (
               <Sun className="h-5 w-5" />
@@ -40,7 +41,7 @@ function App() {
         </div>
         <div className="flex flex-col items-center mb-12">
           <img src={logo} alt="Aimly Logo" className="w-48 h-32 object-contain mb-6" />
-          <h1 className="text-4xl font-bold text-center mb-8">
+          <h1 className="text-4xl font-bold text-center mb-8 text-primary">
             Aimly Video Tutorials
           </h1>
           <div className="w-full max-w-md flex">
@@ -50,13 +51,13 @@ function App() {
                 placeholder="Search tutorials..."
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
-                className="pl-10 pr-4 py-2 w-full"
+                className="pl-10 pr-4 py-2 w-full bg-card text-card-foreground"
               />
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground" size={20} />
             </div>
             <Button
               variant="outline"
-              className="ml-2"
+              className="ml-2 bg-secondary text-secondary-foreground hover:bg-secondary/90"
               onClick={() => setSearchTerm('')}
             >
               Clear
@@ -76,13 +77,12 @@ function App() {
               tutorial.sourceType === 'youtube' ? (
                 <VideoCard key={index} tutorial={tutorial} />
               ) : (
-                <Card key={index} className="hover:shadow-lg transition-shadow">
+                <Card key={index} className="hover:shadow-lg transition-shadow flex flex-col h-[230px]">
                   <CardHeader>
                     <CardTitle className="text-lg">{tutorial.title}</CardTitle>
                   </CardHeader>
-                  <CardContent>
-                    <p className="text-sm text-muted-foreground mb-4">Source: {tutorial.sourceType}</p>
-                    <Button variant="outline" className="w-full" asChild>
+                  <CardContent className="flex-grow flex flex-col justify-between">
+                    <Button variant="outline" className="w-full bg-primary text-primary-foreground hover:bg-primary/90" asChild>
                       <a href={tutorial.url} target="_blank" rel="noopener noreferrer">
                         <ExternalLink className="mr-2 h-4 w-4" />
                         Open Tutorial
