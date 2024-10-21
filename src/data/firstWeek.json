@@ -48,56 +48,25 @@
     "sourceType": "other"
   },
   {
-    "topic": "Normal form of a matrix",
-    "title": " Matrices Normal Form or Canonical Form  | Ekeeda",
-    "url": "https://www.youtube.com/embed/QkOXZwLhZzk",
-    "sourceType": "youtube"
-  },
-
-  {
-    "topic": "Rank of a matrix",
-    "title": " Rank of a matrix | Wrath of Maths",
-    "url": "https://www.youtube.com/embed/cSj82GG6MX4",
-    "sourceType": "youtube"
-  },
-  {
-    "topic": "Rank of a matrix",
-    "title": " Rank of a matrix | YSR Channel",
-    "url": "https://www.youtube.com/embed/SEpm1Lww-j4",
-    "sourceType": "youtube"
-  },
-  {
-    "topic": "Rank of a matrix",
-    "title": " Rank of a matrix | Btechguru BodhBridge ESPL Channel",
-    "url": "https://www.youtube.com/embed/TWKc-pSkxHs",
-    "sourceType": "youtube"
-  },
-  {
-    "topic": "Rank of a matrix",
-    "title": " Rank of a matrix | Geeks for Geeks",
-    "url": "https://www.geeksforgeeks.org/rank-of-matrix/",
-    "sourceType": "other"
-  },
-  {
-    "topic": "Rank of a matrix",
+    "topic": "Rank of a matrix by echelon form",
     "title": "Echelon form and finding the rank of the matrix | BrainKart.com",
     "url": "https://www.brainkart.com/article/Echelon-form-and-finding-the-rank-of-the-matrix-(upto-the-order-of-3--4)_38881/",
     "sourceType": "other"
   },
   {
-    "topic": "Rank of a matrix",
+    "topic": "Rank of a matrix by echelon form",
     "title": " Rank of a matrix | Vedantu",
     "url": "https://www.vedantu.com/maths/matrix-rank",
     "sourceType": "other"
   },
   {
-    "topic": "Rank of a matrix",
+    "topic": "Rank of a matrix by echelon form",
     "title": "Rank of a matrix by echelon form  | Wrath of Math",
     "url": "https://www.youtube.com/embed/cSj82GG6MX4",
     "sourceType": "youtube"
   },
   {
-    "topic": "Rank of a matrix",
+    "topic": "Rank of a matrix by echelon form",
     "title": "Method to find Rank Of Matrix | By Echelon Form | Prof. Yogesh Prabhu ",
     "url": "https://www.youtube.com/embed/WvJ6U_tnPIQ&t=9s",
     "sourceType": "youtube"
@@ -235,31 +204,31 @@
     "sourceType": "youtube"
   },
   {
-    "topic": "L U Decomposition (Numericals)",
+    "topic": "L U Decomposition",
     "title": "LU decomposition - An Example Calculation | The Bright Side of Mathematics",
     "url": "https://www.youtube.com/embed/BFYFkn-eOQk&t=117s",
     "sourceType": "youtube"
   },
   {
-    "topic": "L U Decomposition (Numericals)",
+    "topic": "L U Decomposition",
     "title": "L U Decomposition | GeeksForGeeks",
     "url": "https://www.geeksforgeeks.org/l-u-decomposition-system-linear-equations/",
     "sourceType": "other"
   },
   {
-    "topic": "L U Decomposition (Numericals)",
+    "topic": "L U Decomposition",
     "title": "L U Decomposition | BYZU'S",
     "url": "https://byjus.com/maths/lu-decomposition/",
     "sourceType": "other"
   },
   {
-    "topic": "L U Decomposition (Numericals)",
+    "topic": "L U Decomposition",
     "title": "LU Factorization / LU Decomposition | Numerical Methods - An Example Calculation | StudySession",
     "url": "https://www.youtube.com/embed/PORf7vXejbQ&ab_channel=StudySession",
     "sourceType": "youtube"
   },
   {
-    "topic": "L U Decomposition (Numericals)",
+    "topic": "L U Decomposition",
     "title": "LU Decomposition Example | Numerical Methods | StudySession",
     "url": "https://www.youtube.com/embed/KbYSqIkkCTY&ab_channel=StudySession",
     "sourceType": "youtube"
