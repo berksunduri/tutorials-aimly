@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import firstWeek from './data/firstWeek.json'
-import secondWeek from './data/secondWeek.json'
-import thirdWeek from './data/thirdWeek.json'
+// import secondWeek from './data/secondWeek.json'
+// import thirdWeek from './data/thirdWeek.json'
 // import fourthWeek from './data/fourthWeek.json'
 // import fifthWeek from './data/fifthWeek.json'
 // import sixthWeek from './data/sixthWeek.json'
@@ -11,14 +11,15 @@ import VideoCard from './components/VideoCard'
 import { Input } from "./components/ui/input"
 import { Button } from "./components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "./components/ui/card"
-import { Search, ExternalLink, Moon, Sun, ArrowLeft } from "lucide-react"
+import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@/components/ui/collapsible"
+import { Search, ExternalLink, Moon, Sun, ArrowLeft, ChevronDown, ChevronUp } from "lucide-react"
 import logo from './assets/logo.png'
 import { useTheme } from "./components/theme-provider"
 
 const units = [
   { title: "Unit 1", data: firstWeek },
-  { title: "Unit 2", data: secondWeek },
-  { title: "Unit 3", data: thirdWeek },
+  // { title: "Unit 2", data: secondWeek },
+  // { title: "Unit 3", data: thirdWeek },
   // { title: "Unit 4", data: fourthWeek },
   // { title: "Unit 5", data: fifthWeek },
   // { title: "Unit 6", data: sixthWeek },
@@ -31,6 +32,7 @@ function App() {
   const [mounted, setMounted] = useState(false)
   const { theme, setTheme } = useTheme()
   const [selectedUnit, setSelectedUnit] = useState<number | null>(null)
+  const [openTopics, setOpenTopics] = useState<{ [key: string]: boolean }>({})
 
   useEffect(() => {
     setMounted(true)
@@ -40,6 +42,18 @@ function App() {
   const filteredTutorials = currentTutorials.filter(tutorial =>
     tutorial.title.toLowerCase().includes(searchTerm.toLowerCase())
   )
+
+  const groupedTutorials = filteredTutorials.reduce((acc, tutorial) => {
+    if (!acc[tutorial.topic]) {
+      acc[tutorial.topic] = []
+    }
+    acc[tutorial.topic].push(tutorial)
+    return acc
+  }, {} as { [key: string]: typeof filteredTutorials })
+
+  const toggleTopic = (topic: string) => {
+    setOpenTopics(prev => ({ ...prev, [topic]: !prev[topic] }))
+  }
 
   return (
     <div className="min-h-screen bg-background text-foreground transition-colors duration-300">
@@ -110,32 +124,52 @@ function App() {
               </Card>
             ))}
           </div>
-        ) : filteredTutorials.length === 0 ? (
+        ) : Object.keys(groupedTutorials).length === 0 ? (
           <Card className="w-full max-w-md mx-auto">
             <CardContent className="pt-6">
               <p className="text-center text-muted-foreground">No tutorials found. Try a different search term.</p>
             </CardContent>
           </Card>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {filteredTutorials.map((tutorial, index) => (
-              tutorial.sourceType === 'youtube' ? (
-                <VideoCard key={index} tutorial={tutorial} />
-              ) : (
-                <Card key={index} className="hover:shadow-lg transition-shadow flex flex-col h-[230px]">
-                  <CardHeader>
-                    <CardTitle className="text-lg">{tutorial.title}</CardTitle>
-                  </CardHeader>
-                  <CardContent className="flex-grow flex flex-col justify-between">
-                    <Button variant="outline" className="w-full bg-primary text-primary-foreground hover:bg-primary/90" asChild>
-                      <a href={tutorial.url} target="_blank" rel="noopener noreferrer">
-                        <ExternalLink className="mr-2 h-4 w-4" />
-                        Open Tutorial
-                      </a>
-                    </Button>
-                  </CardContent>
+          <div className="space-y-6">
+            {Object.entries(groupedTutorials).map(([topic, tutorials]) => (
+              <Collapsible key={topic} open={openTopics[topic]} onOpenChange={() => toggleTopic(topic)}>
+                <Card>
+                  <CollapsibleTrigger asChild>
+                    <CardHeader className="cursor-pointer hover:bg-muted/50">
+                      <div className="flex items-center justify-between">
+                        <CardTitle className="text-lg">{topic}</CardTitle>
+                        {openTopics[topic] ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
+                      </div>
+                    </CardHeader>
+                  </CollapsibleTrigger>
+                  <CollapsibleContent>
+                    <CardContent>
+                      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                        {tutorials.map((tutorial, index) => (
+                          tutorial.sourceType === 'youtube' ? (
+                            <VideoCard key={index} tutorial={tutorial} />
+                          ) : (
+                            <Card key={index} className="hover:shadow-lg transition-shadow flex flex-col h-[230px]">
+                              <CardHeader>
+                                <CardTitle className="text-lg">{tutorial.title}</CardTitle>
+                              </CardHeader>
+                              <CardContent className="flex-grow flex flex-col justify-between">
+                                <Button variant="outline" className="w-full bg-primary text-primary-foreground hover:bg-primary/90" asChild>
+                                  <a href={tutorial.url} target="_blank" rel="noopener noreferrer">
+                                    <ExternalLink className="mr-2 h-4 w-4" />
+                                    Open Tutorial
+                                  </a>
+                                </Button>
+                              </CardContent>
+                            </Card>
+                          )
+                        ))}
+                      </div>
+                    </CardContent>
+                  </CollapsibleContent>
                 </Card>
-              )
+              </Collapsible>
             ))}
           </div>
         )}
