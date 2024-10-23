@@ -129,7 +129,7 @@
     "topic": "Diagonalization of matrices",
     "sourceType": "youtube",
     "title": "What is a Diagonal Matrix | Engineering Mathematics",
-    "url": "https://www.youtube.com/watch?v=7bxOmveJEGk"
+    "url": "https://www.youtube.com/embed/7bxOmveJEGk"
   },
   {
     "topic": "Diagonalization of matrices",
@@ -140,31 +140,31 @@
   {
     "topic": "Diagonalization of matrices",
     "sourceType": "youtube",
-    "title": "MODAL MATRIX | DIAGONALIZATION OF MATRIX SOLVED PROBLEM 1 @TIKLESACADEMY",
-    "url": "https://www.youtube.com/watch?v=jcdyI6lWbsM"
+    "title": "Diagonalize a 3 by 3 Matrix (Full Process)",
+    "url": "https://www.youtube.com/embed/H74flsYlQ1w"
   },
   {
     "topic": "Diagonalization of matrices",
     "sourceType": "youtube",
-    "title": "Linear Algebra 64 | Diagonalization",
-    "url": "https://www.youtube.com/watch?v=vEdS1eQSffg"
-  },
-  {
-    "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
-    "sourceType": "youtube",
-    "title": "CAYLEY HAMILTON THEOREM SOLVED PROBLEM 1 IN HINDI LECTURE 2 | UNIT : MATRICES",
-    "url": "https://www.youtube.com/watch?v=Bi0jUBf0mU4"
+    "title": "Diagonalization",
+    "url": "https://www.youtube.com/embed/WTLl03D4TNA"
   },
   {
     "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
     "sourceType": "youtube",
     "title": "Powers of a matrix using the Cayley-Hamilton theorem",
-    "url": "https://www.youtube.com/watch?v=GzqgJyisFvo"
+    "url": "https://www.youtube.com/embed/GzqgJyisFvo"
   },
   {
     "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
     "sourceType": "youtube",
     "title": "Cayley Hamilton : Inverse of a matrix | Mathspedia ",
-    "url": "https://www.youtube.com/watch?v=qJ-zw_meMQ0"
+    "url": "https://www.youtube.com/embed/qJ-zw_meMQ0"
+  },
+  {
+    "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
+    "sourceType": "youtube",
+    "title": "Finding Powers of a Matrix using Cayley Hamilton Theorem",
+    "url": "https://www.youtube.com/embed/0xmI4xZxFe4"
   }
 ]
