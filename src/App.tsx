@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import firstWeek from './data/firstWeek.json'
-// import secondWeek from './data/secondWeek.json'
+import secondWeek from './data/secondWeek.json'
 // import thirdWeek from './data/thirdWeek.json'
 // import fourthWeek from './data/fourthWeek.json'
 // import fifthWeek from './data/fifthWeek.json'
@@ -18,7 +18,7 @@ import { useTheme } from "./components/theme-provider"
 
 const units = [
   { title: "Unit 1", data: firstWeek },
-  // { title: "Unit 2", data: secondWeek },
+  { title: "Unit 2", data: secondWeek },
   // { title: "Unit 3", data: thirdWeek },
   // { title: "Unit 4", data: fourthWeek },
   // { title: "Unit 5", data: fifthWeek },
