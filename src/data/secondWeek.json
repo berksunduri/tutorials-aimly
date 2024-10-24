@@ -44,8 +44,8 @@
   {
     "topic": "Properties of Eigenvalues and Eigenvectors",
     "sourceType": "youtube",
-    "title": "Eigenvalues and Eigenvectors | Properties and Important Result | Matrices",
-    "url": "https://www.youtube.com/embed/1wjXVdwzgX8"
+    "title": "Properties of Eigenvalues",
+    "url": "https://www.youtube.com/embed/7GOVm99SO3A"
   },
   {
     "topic": "Properties of Eigenvalues and Eigenvectors",
@@ -58,6 +58,12 @@
     "sourceType": "youtube",
     "title": "Properties of Eigenvalues",
     "url": "https://www.youtube.com/embed/BGmTRu7WYoA"
+  },
+  {
+    "topic": "Properties of Eigenvalues and Eigenvectors",
+    "sourceType": "youtube",
+    "title": "Properties of Eigenvalues & Examples",
+    "url": "https://www.youtube.com/embed/3crZ-ogrQsM"
   },
   {
     "topic": "Properties of Eigenvalues and Eigenvectors",
@@ -104,8 +110,14 @@
   {
     "topic": "Diagonalization of matrices",
     "sourceType": "youtube",
-    "title": "What is a Diagonal Matrix | Engineering Mathematics",
-    "url": "https://www.youtube.com/embed/7bxOmveJEGk"
+    "title": "Full Example: Diagonalizing a Matrix",
+    "url": "https://www.youtube.com/embed/ieWyx2mlZyk"
+  },
+  {
+    "topic": "Diagonalization of matrices",
+    "sourceType": "youtube",
+    "title": "Diagonalization of matrices | Linear Algebra",
+    "url": "https://www.youtube.com/embed/QdO7O4y10Z8"
   },
   {
     "topic": "Diagonalization of matrices",
