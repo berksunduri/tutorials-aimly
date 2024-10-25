@@ -76,5 +76,71 @@
     "title": " Negative Definite Matrix  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/NegativeDefiniteMatrix.html",
     "sourceType": "other"
+  },
+  {
+    "topic": "Limits, Continuity, Differentiation",
+    "sourceType": "youtube",
+    "title": "Limits and Continuity",
+    "url": "https://www.youtube.com/embed/9brk313DjV8"
+  },
+  {
+    "topic": "Limits, Continuity, Differentiation",
+    "sourceType": "youtube",
+    "title": "Continuity and Differentiability",
+    "url": "https://www.youtube.com/embed/fml0-ELYLaE"
+  },
+  {
+    "topic": "Limits, Continuity, Differentiation",
+    "sourceType": "youtube",
+    "title": "Limits, continuity and differentiability | Short Video",
+    "url": "https://www.youtube.com/embed/uMgyho3mcT0"
+  },
+  {
+    "topic": "Limits, Continuity, Differentiation",
+    "sourceType": "youtube",
+    "title": "Continuity and Differentiability EXPLAINED with Examples",
+    "url": "https://www.youtube.com/embed/nRv1lPqrx3k"
+  },
+  {
+    "topic": "Limits, Continuity, Differentiation",
+    "sourceType": "other",
+    "title": "Limits, Continuity and Differentiability",
+    "url": "https://www.geeksforgeeks.org/limits-continuity-differentiability/"
+  },
+  {
+    "topic": "Limits, Continuity, Differentiation",
+    "sourceType": "other",
+    "title": "Limits, Continuity, and Differentiability",
+    "url": "https://math.libretexts.org/Under_Construction/Purgatory/Book%3A_Active_Calculus_(Boelkins_et_al.)/01%3A_Understanding_the_Derivative/1.07%3A_Limits_Continuity_and_Differentiability"
+  },
+  {
+    "topic": "Jacobian Determinant, Functional dependence",
+    "sourceType": "youtube",
+    "title": "The Jacobian matrix",
+    "url": "https://www.youtube.com/embed/bohL918kXQk"
+  },
+  {
+    "topic": "Jacobian Determinant, Functional dependence",
+    "sourceType": "youtube",
+    "title": "The Jacobian",
+    "url": "https://www.youtube.com/embed/Bw5yEqwMjQU"
+  },
+  {
+    "topic": "Jacobian Determinant, Functional dependence",
+    "sourceType": "youtube",
+    "title": "Linear Algebra: Jacobian Determinant",
+    "url": "https://www.youtube.com/embed/ywz8CYuAhy8"
+  },
+  {
+    "topic": "Jacobian Determinant, Functional dependence",
+    "sourceType": "khan_academy",
+    "title": "The Jacobian Determinant",
+    "url": "https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/jacobian/v/the-jacobian-determinant"
+  },
+  {
+    "topic": "Jacobian Determinant, Functional dependence",
+    "sourceType": "other",
+    "title": "Jacobian | MathWorld",
+    "url": "https://mathworld.wolfram.com/Jacobian.html"
   }
 ]
