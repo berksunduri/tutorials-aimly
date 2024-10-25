@@ -204,7 +204,7 @@
       "url": "https://www.youtube.com/embed/ODOztJ6YRUM?start=243&end=567 "
     },
     {
-      "topic":"Solutions of Homogeneous System of Linear Equations",
+      "topic": "Solutions of Homogeneous System of Linear Equations",
       "sourceType": "youtube",
       "title": "Homogeneous Systems of Linear Equations - Trivial Solution | PatrickJMT",
       "url": "https://www.youtube.com/embed/JlJWyWJARRU?start=348&end=520"
@@ -218,8 +218,8 @@
     {
       "topic": "Solutions of Homogeneous System of Linear Equations",
       "sourceType": "other",
-      "title": "Homogeneous Linear Equations | GeeksforGeeks",
-      "url": "https://www.geeksforgeeks.org/homogeneous-linear-equations/"
+      "title": "Homogeneous Linear Equations | CueMath",
+      "url": "https://www.cuemath.com/algebra/homogeneous-system-of-linear-equations/"
     },
     {
       "topic": "Solutions of Non-Homogeneous System of Linear Equations",
@@ -426,61 +426,43 @@
       "sourceType": "other"
     },
     {
-      "topic": "Properties of eigen values",
-      "title": " Property 1  | Alex Maths Engineering",
-      "url": "https://www.youtube.com/embed/EkA4yVc9eFE",
-      "sourceType": "youtube"
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues",
+      "url": "https://www.youtube.com/embed/7GOVm99SO3A"
     },
     {
-      "topic": "Properties of eigen values",
-      "title": " Property 2  | Alex Maths Engineering",
-      "url": "https://www.youtube.com/embed/W3ObbgpupG0",
-      "sourceType": "youtube"
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues and Eigenvectors",
+      "url": "https://www.youtube.com/embed/rX3uwRdEYqM"
     },
     {
-      "topic": "Properties of eigen values",
-      "title": " Property 3  | Alex Maths Engineering",
-      "url": "https://www.youtube.com/embed/19ZwL3dSn2U",
-      "sourceType": "youtube"
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues",
+      "url": "https://www.youtube.com/embed/BGmTRu7WYoA"
     },
     {
-      "topic": "Properties of eigen values",
-      "title": " Property 4  | Alex Maths Engineering",
-      "url": "https://www.youtube.com/embed/BKpQcAxD5ig",
-      "sourceType": "youtube"
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues & Examples",
+      "url": "https://www.youtube.com/embed/3crZ-ogrQsM"
     },
     {
-      "topic": "Properties of eigen values",
-      "title": " Property 5  | Alex Maths Engineering",
-      "url": "https://www.youtube.com/embed/sfexN4kNrZQ",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Properties of eigen values",
-      "title": " Property 6  | Alex Maths Engineering",
-      "url": "https://www.youtube.com/embed/vk3cjoIRqpM",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Properties of eigen values",
-      "title": " Property 7  | Alex Maths Engineering",
-      "url": "https://www.youtube.com/embed/gm4VjsLARJo",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Properties of eigen values",
+      "topic": "Properties of Eigenvalues and Eigenvectors",
       "title": " Properties of Eigen values and vectors   | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/Eigenvalue.html",
       "sourceType": "other"
     },
     {
-      "topic": "Properties of eigen values",
+      "topic": "Properties of Eigenvalues and Eigenvectors",
       "title": " Properties of Eigen values and vectors  | Unacademy",
       "url": "https://unacademy.com/content/jee/study-material/physics/properties-of-eigenvalues/",
       "sourceType": "other"
     },
     {
-      "topic": "Properties of eigen values",
+      "topic": "Properties of Eigenvalues and Eigenvectors",
       "title": " Properties of Eigen values and vectors  | Geeks for Geeks",
       "url": "https://www.geeksforgeeks.org/eigen-values/",
       "sourceType": "other"
@@ -534,6 +516,30 @@
       "sourceType": "youtube"
     },
     {
+      "topic": "Rank of a matrix by echelon form",
+      "title": "Echelon form and finding the rank of the matrix | BrainKart.com",
+      "url": "https://www.brainkart.com/article/Echelon-form-and-finding-the-rank-of-the-matrix-(upto-the-order-of-3--4)_38881/",
+      "sourceType": "other"
+    },
+    {
+      "topic": "Rank of a matrix by echelon form",
+      "title": " Rank of a matrix | Vedantu",
+      "url": "https://www.vedantu.com/maths/matrix-rank",
+      "sourceType": "other"
+    },
+    {
+      "topic": "Rank of a matrix by echelon form",
+      "title": "Rank of a matrix by echelon form  | Wrath of Math",
+      "url": "https://www.youtube.com/embed/cSj82GG6MX4",
+      "sourceType": "youtube"
+    },
+    {
+      "topic": "Rank of a matrix by echelon form",
+      "title": "Method to find Rank Of Matrix | By Echelon Form | Prof. Yogesh Prabhu ",
+      "url": "https://www.youtube.com/embed/WvJ6U_tnPIQ&t=9s",
+      "sourceType": "youtube"
+    },
+    {
       "topic": "Rank of a matrix by normal form",
       "title": " Rank of a matrix | Wrath of Maths",
       "url": "https://www.youtube.com/embed/cSj82GG6MX4",
@@ -566,7 +572,7 @@
     {
       "topic": "Rank of a matrix by normal form",
       "title": "Rank of Matrix by Reducing into Normal Form  Canonical Form | TEAM Education",
-      "url": "https://www.youtube.com/embed/WvJ6U_tnPIQ&t=9s",
+      "url": "https://www.youtube.com/embed/WvJ6U_tnPIQ",
       "sourceType": "youtube"
     },
     {
@@ -634,6 +640,54 @@
       "title": " Similar matrices   | Geeks for Geeks",
       "url": "https://www.geeksforgeeks.org/similar-matrix/",
       "sourceType": "other"
+    },
+    {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Full Example: Diagonalizing a Matrix",
+      "url": "https://www.youtube.com/embed/ieWyx2mlZyk"
+    },
+    {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Diagonalization of matrices | Linear Algebra",
+      "url": "https://www.youtube.com/embed/QdO7O4y10Z8"
+    },
+    {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "other",
+      "title": "Matrix diagonalization",
+      "url": "https://www.statlect.com/matrix-algebra/matrix-diagonalization"
+    },
+    {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Diagonalize a 3 by 3 Matrix (Full Process)",
+      "url": "https://www.youtube.com/embed/H74flsYlQ1w"
+    },
+    {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Diagonalization",
+      "url": "https://www.youtube.com/embed/WTLl03D4TNA"
+    },
+    {
+      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
+      "sourceType": "youtube",
+      "title": "Powers of a matrix using the Cayley-Hamilton theorem",
+      "url": "https://www.youtube.com/embed/GzqgJyisFvo"
+    },
+    {
+      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
+      "sourceType": "youtube",
+      "title": "Cayley Hamilton : Inverse of a matrix | Mathspedia ",
+      "url": "https://www.youtube.com/embed/qJ-zw_meMQ0"
+    },
+    {
+      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
+      "sourceType": "youtube",
+      "title": "Finding Powers of a Matrix using Cayley Hamilton Theorem",
+      "url": "https://www.youtube.com/embed/0xmI4xZxFe4"
     },
     {
       "topic": "Solution of linear system of equations",
@@ -745,36 +799,24 @@
     },
     {
       "topic": "L U Decomposition",
-      "title": "LU decomposition - An Example Calculation | The Bright Side of Mathematics",
-      "url": "https://www.youtube.com/embed/BFYFkn-eOQk&t=117s",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "L U Decomposition (Numericals)",
-      "title": "LU decomposition - An Example Calculation | The Bright Side of Mathematics",
-      "url": "https://www.youtube.com/embed/BFYFkn-eOQk&t=117s",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "L U Decomposition (Numericals)",
       "title": "L U Decomposition | GeeksForGeeks",
       "url": "https://www.geeksforgeeks.org/l-u-decomposition-system-linear-equations/",
       "sourceType": "other"
     },
     {
-      "topic": "L U Decomposition (Numericals)",
+      "topic": "L U Decomposition",
       "title": "L U Decomposition | BYZU'S",
       "url": "https://byjus.com/maths/lu-decomposition/",
       "sourceType": "other"
     },
     {
-      "topic": "L U Decomposition (Numericals)",
+      "topic": "L U Decomposition",
       "title": "LU Factorization / LU Decomposition | Numerical Methods - An Example Calculation | StudySession",
       "url": "https://www.youtube.com/embed/PORf7vXejbQ&ab_channel=StudySession",
       "sourceType": "youtube"
     },
     {
-      "topic": "L U Decomposition (Numericals)",
+      "topic": "L U Decomposition",
       "title": "LU Decomposition Example | Numerical Methods | StudySession",
       "url": "https://www.youtube.com/embed/KbYSqIkkCTY&ab_channel=StudySession",
       "sourceType": "youtube"
