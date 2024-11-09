@@ -3,10 +3,6 @@ import firstWeek from './data/firstWeek.json'
 import secondWeek from './data/secondWeek.json'
 import thirdWeek from './data/thirdWeek.json'
 import fourthWeek from './data/fourthWeek.json'
-// import fifthWeek from './data/fifthWeek.json'
-// import sixthWeek from './data/sixthWeek.json'
-// import seventhWeek from './data/seventhWeek.json'
-// import eighthWeek from './data/eighthWeek.json'
 import VideoCard from './components/VideoCard'
 import { Input } from "./components/ui/input"
 import { Button } from "./components/ui/button"
@@ -21,10 +17,6 @@ const units = [
   { title: "Unit 2", data: secondWeek },
   { title: "Unit 3", data: thirdWeek },
   { title: "Unit 4", data: fourthWeek },
-  // { title: "Unit 5", data: fifthWeek },
-  // { title: "Unit 6", data: sixthWeek },
-  // { title: "Unit 7", data: seventhWeek },
-  // { title: "Unit 8", data: eighthWeek },
 ]
 
 function App() {

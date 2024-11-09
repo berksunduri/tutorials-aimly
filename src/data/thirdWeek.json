@@ -1,80 +1,152 @@
 [
   {
-    "topic": "Reduction of quadratic form to canonical form",
+    "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic form to canonical form | Khan Academy",
     "url": "https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/v/expressing-a-quadratic-form-with-a-matrix",
     "sourceType": "khan_academy"
   },
   {
-    "topic": "Reduction of quadratic form to canonical form",
+    "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic form to canonical form | Sreekanth Reddy",
     "url": "https://www.youtube.com/embed/DaI9cWx-uzw",
     "sourceType": "youtube"
   },
   {
-    "topic": "Reduction of quadratic form to canonical form",
+    "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic form to canonical form | Alex Math Engineering",
     "url": "https://www.youtube.com/embed/g2Xvd1h6Kdw",
     "sourceType": "youtube"
   },
   {
-    "topic": "Reduction of quadratic form to canonical form",
+    "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic form to canonical form | meeramaths",
     "url": "https://www.youtube.com/embed/s49gP19panE",
     "sourceType": "youtube"
   },
   {
-    "topic": "Reduction of quadratic form to canonical form",
+    "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/QuadraticForm.html",
     "sourceType": "other"
   },
   {
-    "topic": "Nature of quadratic form",
+    "topic": "Nature of the Quadratic Forms",
     "title": " Nature of Quadratic forms(Problem)  | Alex Maths Engineering",
     "url": "https://www.youtube.com/embed/d8KUQSefUC8",
     "sourceType": "youtube"
   },
   {
-    "topic": "Nature of quadratic form",
+    "topic": "Nature of the Quadratic Forms",
     "title": " Quadratic form | Matrix form to Quadratic form | Examples solved  | Mathspedia",
     "url": "https://www.youtube.com/embed/ToMFyAeHzIQ?end=295",
     "sourceType": "youtube"
   },
   {
-    "topic": "Nature of quadratic form",
+    "topic": "Nature of the Quadratic Forms",
     "title": " Checking if a Matrix is Positive Definite  | Florian Ludewig",
     "url": "https://www.youtube.com/embed/ttMZB5Gm_fM",
     "sourceType": "youtube"
   },
   {
-    "topic": "Nature of quadratic form",
+    "topic": "Nature of the Quadratic Forms",
     "title": " Quadratic Form  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/QuadraticForm.html",
     "sourceType": "other"
   },
   {
-    "topic": "Nature of quadratic form",
+    "topic": "Nature of the Quadratic Forms",
     "title": " Indefinite Quadratic Form  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/IndefiniteQuadraticForm.html",
     "sourceType": "other"
   },
   {
-    "topic": "Nature of quadratic form",
+    "topic": "Nature of the Quadratic Forms",
     "title": " Positive Definite Quadratic Form  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/PositiveDefiniteQuadraticForm.html",
     "sourceType": "other"
   },
   {
-    "topic": "Nature of quadratic form",
+    "topic": "Nature of the Quadratic Forms",
     "title": " Positive Semidefinite Quadratic Form  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/PositiveSemidefiniteQuadraticForm.html",
     "sourceType": "other"
   },
   {
-    "topic": "Nature of quadratic form",
+    "topic": "Nature of the Quadratic Forms",
     "title": " Negative Definite Matrix  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/NegativeDefiniteMatrix.html",
     "sourceType": "other"
+  },
+  {
+    "topic": "Types of Complex  Matrices and properties of complex matrices",
+    "sourceType": "youtube",
+    "title": "Complex Matrices | MIT (English)",
+    "url": "https://www.youtube.com/embed/VYS9EYZ3gCo?start=5"
+  },
+  {
+    "topic": "Types of Complex  Matrices and properties of complex matrices",
+    "sourceType": "other",
+    "title": "Complex Matrices || Theory (English)",
+    "url": "https://ximera.osu.edu/oerlinalg/LinearAlgebra/RTH-0050/main"
+  },
+  {
+    "topic": "Types of Complex  Matrices and properties of complex matrices",
+    "sourceType": "other",
+    "title": "Complex Matrix || MathWorld (English)",
+    "url": "https://mathworld.wolfram.com/ComplexMatrix.html"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Complex Eigenvalues and Eigenvectors || (English)",
+    "url": "https://www.youtube.com/watch?v=d9neNf8_b0I"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Complex Eigenvalues and Eigenvectors || Example Solving (English)",
+    "url": "https://www.youtube.com/watch?v=FOoi8h47Tw4"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Complex eigenvectors || Example Solving (English)",
+    "url": "https://www.youtube.com/embed/SkXy4jpfczY?start=45"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Find Eigenvalues and Eigenvectors of 2 by 2 Matrix  || Example Solving (English)",
+    "url": "https://www.youtube.com/watch?v=xbc9MYQkyRQ"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "other",
+    "title": "Complex Eigenvalues || Theory and Examples (English)",
+    "url": "https://textbooks.math.gatech.edu/ila/complex-eigenvalues.html"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "other",
+    "title": "Complex Eigenvalues (and Eigenvectors)|| Theory and Examples (English)",
+    "url": "https://interactivetextbooks.tudelft.nl/linear-algebra/Chapter6/ComplexEigenvalues.html"
+  },
+  {
+    "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
+    "sourceType": "youtube",
+    "title": "Reduction of Quadratic form to Canonical form || Example ",
+    "url": "https://www.youtube.com/watch?v=_HC4imMVWNk"
+  },
+  {
+    "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
+    "sourceType": "youtube",
+    "title": " Reduction of quadratic form to canonical form | Sreekanth Reddy (Hindi)",
+    "url": "https://www.youtube.com/embed/DaI9cWx-uzw"
+  },
+  {
+    "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
+    "sourceType": "youtube",
+    "title": " Reduction of quadratic form to canonical form | (English)",
+    "url": "https://www.youtube.com/embed/s49gP19panE"
   }
 ]
