@@ -1,5 +1,59 @@
 [
   {
+    "topic": "Types of Complex  Matrices and properties of complex matrices",
+    "sourceType": "youtube",
+    "title": "Complex Matrices | MIT (English)",
+    "url": "https://www.youtube.com/embed/VYS9EYZ3gCo?start=5"
+  },
+  {
+    "topic": "Types of Complex  Matrices and properties of complex matrices",
+    "sourceType": "other",
+    "title": "Complex Matrices || Theory (English)",
+    "url": "https://ximera.osu.edu/oerlinalg/LinearAlgebra/RTH-0050/main"
+  },
+  {
+    "topic": "Types of Complex  Matrices and properties of complex matrices",
+    "sourceType": "other",
+    "title": "Complex Matrix || MathWorld (English)",
+    "url": "https://mathworld.wolfram.com/ComplexMatrix.html"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Complex Eigenvalues and Eigenvectors || (English)",
+    "url": "https://www.youtube.com/embed/d9neNf8_b0I"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Complex Eigenvalues and Eigenvectors || Example Solving (English)",
+    "url": "https://www.youtube.com/embed/FOoi8h47Tw4"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Complex eigenvectors || Example Solving (English)",
+    "url": "https://www.youtube.com/embed/SkXy4jpfczY?start=45"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Find Eigenvalues and Eigenvectors of 2 by 2 Matrix  || Example Solving (English)",
+    "url": "https://www.youtube.com/embed/xbc9MYQkyRQ"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "other",
+    "title": "Complex Eigenvalues || Theory and Examples (English)",
+    "url": "https://textbooks.math.gatech.edu/ila/complex-eigenvalues.html"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "other",
+    "title": "Complex Eigenvalues (and Eigenvectors)|| Theory and Examples (English)",
+    "url": "https://interactivetextbooks.tudelft.nl/linear-algebra/Chapter6/ComplexEigenvalues.html"
+  },
+  {
     "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic form to canonical form | Khan Academy",
     "url": "https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/v/expressing-a-quadratic-form-with-a-matrix",
@@ -76,60 +130,6 @@
     "title": " Negative Definite Matrix  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/NegativeDefiniteMatrix.html",
     "sourceType": "other"
-  },
-  {
-    "topic": "Types of Complex  Matrices and properties of complex matrices",
-    "sourceType": "youtube",
-    "title": "Complex Matrices | MIT (English)",
-    "url": "https://www.youtube.com/embed/VYS9EYZ3gCo?start=5"
-  },
-  {
-    "topic": "Types of Complex  Matrices and properties of complex matrices",
-    "sourceType": "other",
-    "title": "Complex Matrices || Theory (English)",
-    "url": "https://ximera.osu.edu/oerlinalg/LinearAlgebra/RTH-0050/main"
-  },
-  {
-    "topic": "Types of Complex  Matrices and properties of complex matrices",
-    "sourceType": "other",
-    "title": "Complex Matrix || MathWorld (English)",
-    "url": "https://mathworld.wolfram.com/ComplexMatrix.html"
-  },
-  {
-    "topic": "Eigen values and eigen vectors of complex matrices",
-    "sourceType": "youtube",
-    "title": "Complex Eigenvalues and Eigenvectors || (English)",
-    "url": "https://www.youtube.com/embed/d9neNf8_b0I"
-  },
-  {
-    "topic": "Eigen values and eigen vectors of complex matrices",
-    "sourceType": "youtube",
-    "title": "Complex Eigenvalues and Eigenvectors || Example Solving (English)",
-    "url": "https://www.youtube.com/embed/FOoi8h47Tw4"
-  },
-  {
-    "topic": "Eigen values and eigen vectors of complex matrices",
-    "sourceType": "youtube",
-    "title": "Complex eigenvectors || Example Solving (English)",
-    "url": "https://www.youtube.com/embed/SkXy4jpfczY?start=45"
-  },
-  {
-    "topic": "Eigen values and eigen vectors of complex matrices",
-    "sourceType": "youtube",
-    "title": "Find Eigenvalues and Eigenvectors of 2 by 2 Matrix  || Example Solving (English)",
-    "url": "https://www.youtube.com/embed/xbc9MYQkyRQ"
-  },
-  {
-    "topic": "Eigen values and eigen vectors of complex matrices",
-    "sourceType": "other",
-    "title": "Complex Eigenvalues || Theory and Examples (English)",
-    "url": "https://textbooks.math.gatech.edu/ila/complex-eigenvalues.html"
-  },
-  {
-    "topic": "Eigen values and eigen vectors of complex matrices",
-    "sourceType": "other",
-    "title": "Complex Eigenvalues (and Eigenvectors)|| Theory and Examples (English)",
-    "url": "https://interactivetextbooks.tudelft.nl/linear-algebra/Chapter6/ComplexEigenvalues.html"
   },
   {
     "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
