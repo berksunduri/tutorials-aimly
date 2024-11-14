@@ -3,156 +3,208 @@
     "topic": "Eigen values and eigen vectors",
     "title": "Eigen values and Eigen vectors | Solid Mechanics Classroom ",
     "url": "https://www.youtube.com/embed/5UjQVJu89_Q",
-    "sourceType": "youtube"
+    "sourceType": "youtube",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Eigen values and eigen vectors",
     "title": " Introduction to eigenvalues and eigenvectors  | Khan Academy ",
     "url": "https://www.bing.com/videos/riverview/relatedvideo?q=Eigen+values+and+eigen+vectors+Khan+academy&mid=FB70109252B7F09AFDAAFB70109252B7F09AFDAA&FORM=VIRE",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Eigen values and eigen vectors",
     "title": "How to find the Eigenvalues of a 3x3 Matrix | Cowan Academy ",
     "url": "https://www.youtube.com/embed/9kfp85NpqfE",
-    "sourceType": "youtube"
+    "sourceType": "youtube",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Eigen values and eigen vectors",
     "title": "Shortcut Trick to Find EigenValues of 3x3 Matrix | Fundamentals of Engineering ",
     "url": "https://www.youtube.com/embed/uf9ZQwCEvP4?start=56",
-    "sourceType": "youtube"
+    "sourceType": "youtube",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Eigen values and eigen vectors",
     "title": "Eigen Vector | Wolfram MathWorld ",
     "url": "https://mathworld.wolfram.com/Eigenvector.html",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Eigen values and eigen vectors",
     "title": "EigenValues and EigenVectors | GeeksForGeeks ",
     "url": "https://www.geeksforgeeks.org/eigen-values/",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Eigen values and eigen vectors",
     "title": "EigenValues | Wolfram MathWorld ",
     "url": "https://mathworld.wolfram.com/Eigenvalue.html",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Properties of Eigenvalues and Eigenvectors",
     "sourceType": "youtube",
     "title": "Properties of Eigenvalues",
-    "url": "https://www.youtube.com/embed/7GOVm99SO3A"
+    "url": "https://www.youtube.com/embed/7GOVm99SO3A",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Properties of Eigenvalues and Eigenvectors",
     "sourceType": "youtube",
     "title": "Properties of Eigenvalues and Eigenvectors",
-    "url": "https://www.youtube.com/embed/rX3uwRdEYqM"
+    "url": "https://www.youtube.com/embed/rX3uwRdEYqM",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Properties of Eigenvalues and Eigenvectors",
     "sourceType": "youtube",
     "title": "Properties of Eigenvalues",
-    "url": "https://www.youtube.com/embed/BGmTRu7WYoA"
+    "url": "https://www.youtube.com/embed/BGmTRu7WYoA",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Properties of Eigenvalues and Eigenvectors",
     "sourceType": "youtube",
     "title": "Properties of Eigenvalues & Examples",
-    "url": "https://www.youtube.com/embed/3crZ-ogrQsM"
+    "url": "https://www.youtube.com/embed/3crZ-ogrQsM",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Properties of Eigenvalues and Eigenvectors",
     "title": " Properties of Eigen values and vectors   | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/Eigenvalue.html",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Properties of Eigenvalues and Eigenvectors",
     "title": " Properties of Eigen values and vectors  | Unacademy",
     "url": "https://unacademy.com/content/jee/study-material/physics/properties-of-eigenvalues/",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Properties of Eigenvalues and Eigenvectors",
     "title": " Properties of Eigen values and vectors  | Geeks for Geeks",
     "url": "https://www.geeksforgeeks.org/eigen-values/",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Cayley-Hamilton theorem",
     "title": " Cayley-Hamilton Theorem | Steve Brunton",
     "url": "https://www.youtube.com/embed/PrfxmkBsYKE",
-    "sourceType": "youtube"
+    "sourceType": "youtube",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Cayley-Hamilton theorem",
     "title": " The Cayley Hamilton Theorem | richard pates ",
     "url": "https://www.youtube.com/embed/AM-GFrhuHkY?start=88&end=350",
-    "sourceType": "youtube"
+    "sourceType": "youtube",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Cayley-Hamilton theorem",
     "title": " Cayley-Hamilton Theorem | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/Cayley-HamiltonTheorem.html",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Cayley-Hamilton theorem",
     "title": " Cayley Hamilton Theorem Statement with Proof, Formula & Examples | Testbook",
     "url": "https://testbook.com/maths/cayley-hamilton-theorem",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Diagonalization of matrices",
     "sourceType": "youtube",
     "title": "Full Example: Diagonalizing a Matrix",
-    "url": "https://www.youtube.com/embed/ieWyx2mlZyk"
+    "url": "https://www.youtube.com/embed/ieWyx2mlZyk",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Diagonalization of matrices",
     "sourceType": "youtube",
     "title": "Diagonalization of matrices | Linear Algebra",
-    "url": "https://www.youtube.com/embed/QdO7O4y10Z8"
+    "url": "https://www.youtube.com/embed/QdO7O4y10Z8",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Diagonalization of matrices",
     "sourceType": "other",
     "title": "Matrix diagonalization",
-    "url": "https://www.statlect.com/matrix-algebra/matrix-diagonalization"
+    "url": "https://www.statlect.com/matrix-algebra/matrix-diagonalization",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Diagonalization of matrices",
     "sourceType": "youtube",
     "title": "Diagonalize a 3 by 3 Matrix (Full Process)",
-    "url": "https://www.youtube.com/embed/H74flsYlQ1w"
+    "url": "https://www.youtube.com/embed/H74flsYlQ1w",
+    "lang": "full process",
+    "unit": "2"
   },
   {
     "topic": "Diagonalization of matrices",
     "sourceType": "youtube",
     "title": "Diagonalization",
-    "url": "https://www.youtube.com/embed/WTLl03D4TNA"
+    "url": "https://www.youtube.com/embed/WTLl03D4TNA",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
     "sourceType": "youtube",
     "title": "Powers of a matrix using the Cayley-Hamilton theorem",
-    "url": "https://www.youtube.com/embed/GzqgJyisFvo"
+    "url": "https://www.youtube.com/embed/GzqgJyisFvo",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
     "sourceType": "youtube",
     "title": "Cayley Hamilton : Inverse of a matrix | Mathspedia ",
-    "url": "https://www.youtube.com/embed/qJ-zw_meMQ0"
+    "url": "https://www.youtube.com/embed/qJ-zw_meMQ0",
+    "lang": "english",
+    "unit": "2"
   },
   {
     "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
     "sourceType": "youtube",
     "title": "Finding Powers of a Matrix using Cayley Hamilton Theorem",
-    "url": "https://www.youtube.com/embed/0xmI4xZxFe4"
+    "url": "https://www.youtube.com/embed/0xmI4xZxFe4",
+    "lang": "english",
+    "unit": "2"
   }
 ]

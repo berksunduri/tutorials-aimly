@@ -1,152 +1,394 @@
 [
   {
-    "topic": "Types of Complex  Matrices and properties of complex matrices",
+    "topic": "Types of Complex Matrices and properties of complex matrices",
     "sourceType": "youtube",
     "title": "Complex Matrices | MIT (English)",
-    "url": "https://www.youtube.com/embed/VYS9EYZ3gCo?start=5"
+    "url": "https://www.youtube.com/embed/VYS9EYZ3gCo?start=5",
+    "lang": "english",
+    "unit": "3"
   },
   {
-    "topic": "Types of Complex  Matrices and properties of complex matrices",
+    "topic": "Types of Complex Matrices and properties of complex matrices",
     "sourceType": "other",
     "title": "Complex Matrices || Theory (English)",
-    "url": "https://ximera.osu.edu/oerlinalg/LinearAlgebra/RTH-0050/main"
+    "url": "https://ximera.osu.edu/oerlinalg/LinearAlgebra/RTH-0050/main",
+    "lang": "english",
+    "unit": "3"
   },
   {
-    "topic": "Types of Complex  Matrices and properties of complex matrices",
+    "topic": "Types of Complex Matrices and properties of complex matrices",
     "sourceType": "other",
     "title": "Complex Matrix || MathWorld (English)",
-    "url": "https://mathworld.wolfram.com/ComplexMatrix.html"
+    "url": "https://mathworld.wolfram.com/ComplexMatrix.html",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Types of Complex Matrices and properties of complex matrices",
+    "sourceType": "youtube",
+    "title": "Complex, Hermitian, and Unitary Matrices (English)",
+    "url": "https://www.youtube.com/embed/DUuTx2nbizM?start=38",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Types of Complex Matrices and properties of complex matrices",
+    "sourceType": "other",
+    "title": "Complex matrix | Article (English)",
+    "url": "https://www.algebrapracticeproblems.com/complex-matrix/",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Types of Complex Matrices and properties of complex matrices",
+    "sourceType": "youtube",
+    "title": "Complex Matrices | Video (Hindi)",
+    "url": "https://www.youtube.com/embed/uSMipG-d4ic",
+    "lang": "hindi",
+    "unit": "3"
+  },
+  {
+    "topic": "Types of Complex Matrices and properties of complex matrices",
+    "sourceType": "youtube",
+    "title": "Special types of Matrices | (Hindi)",
+    "url": "https://www.youtube.com/embed/Q3tfEHXy8nI",
+    "lang": "hindi",
+    "unit": "3"
+  },
+  {
+    "topic": "Types of Complex Matrices and properties of complex matrices",
+    "sourceType": "youtube",
+    "title": "Real Matrices (Symmetric & Skew-Symmetric) | (Hindi)",
+    "url": "https://www.youtube.com/embed/Hymb0BglJg0",
+    "lang": "symmetric & skew-symmetric",
+    "unit": "3"
+  },
+  {
+    "topic": "Types of Complex Matrices and properties of complex matrices",
+    "sourceType": "youtube",
+    "title": "Types and properties of complex matrices 1(Telugu)",
+    "url": "https://www.youtube.com/embed/Zoc35ZyDHH8?start=345&end=726",
+    "lang": "telugu",
+    "unit": "3"
+  },
+  {
+    "topic": "Types of Complex Matrices and properties of complex matrices",
+    "sourceType": "youtube",
+    "title": "Types and properties of complex matrices 2(Telugu)",
+    "url": "https://www.youtube.com/embed/KUxriCzLa4I?start=64&end=549",
+    "lang": "telugu",
+    "unit": "3"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Eigen values of complex matrices | (Hindi)",
+    "url": "https://www.youtube.com/embed/IUnh_EcudD4",
+    "lang": "hindi",
+    "unit": "3"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Eigen Values and Eigen Vectors | (Hindi)",
+    "url": "https://www.youtube.com/embed/h8sg_XBp6VA",
+    "lang": "hindi",
+    "unit": "3"
   },
   {
     "topic": "Eigen values and eigen vectors of complex matrices",
     "sourceType": "youtube",
     "title": "Complex Eigenvalues and Eigenvectors || (English)",
-    "url": "https://www.youtube.com/embed/d9neNf8_b0I"
+    "url": "https://www.youtube.com/embed/d9neNf8_b0I",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Eigen values and eigen vectors of complex matrices",
     "sourceType": "youtube",
     "title": "Complex Eigenvalues and Eigenvectors || Example Solving (English)",
-    "url": "https://www.youtube.com/embed/FOoi8h47Tw4"
+    "url": "https://www.youtube.com/embed/FOoi8h47Tw4",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Eigen values and eigen vectors of complex matrices",
     "sourceType": "youtube",
     "title": "Complex eigenvectors || Example Solving (English)",
-    "url": "https://www.youtube.com/embed/SkXy4jpfczY?start=45"
+    "url": "https://www.youtube.com/embed/SkXy4jpfczY?start=45",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Eigen values and eigen vectors of complex matrices",
     "sourceType": "youtube",
     "title": "Find Eigenvalues and Eigenvectors of 2 by 2 Matrix  || Example Solving (English)",
-    "url": "https://www.youtube.com/embed/xbc9MYQkyRQ"
+    "url": "https://www.youtube.com/embed/xbc9MYQkyRQ",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Eigen values and eigen vectors of complex matrices",
     "sourceType": "other",
     "title": "Complex Eigenvalues || Theory and Examples (English)",
-    "url": "https://textbooks.math.gatech.edu/ila/complex-eigenvalues.html"
+    "url": "https://textbooks.math.gatech.edu/ila/complex-eigenvalues.html",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Eigen values and eigen vectors of complex matrices",
     "sourceType": "other",
     "title": "Complex Eigenvalues (and Eigenvectors)|| Theory and Examples (English)",
-    "url": "https://interactivetextbooks.tudelft.nl/linear-algebra/Chapter6/ComplexEigenvalues.html"
+    "url": "https://interactivetextbooks.tudelft.nl/linear-algebra/Chapter6/ComplexEigenvalues.html",
+    "lang": "and eigenvectors",
+    "unit": "3"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "other",
+    "title": "Complex Eigenvalues | Article (English)",
+    "url": "https://math.libretexts.org/Bookshelves/Linear_Algebra/Interactive_Linear_Algebra_(Margalit_and_Rabinoff)/05%3A_Eigenvalues_and_Eigenvectors/5.04%3A_Complex_Eigenvalues",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Complex Eigenvalues | Video Example (English)",
+    "url": "https://www.youtube.com/embed/K1Bwwo1Wfko",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Eigenvalues and eigenvectors 1(Telugu)",
+    "url": "https://www.youtube.com/embed/wRigOa73UzI?start=24&end=1747",
+    "lang": "telugu",
+    "unit": "3"
   },
   {
     "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic form to canonical form | Khan Academy",
     "url": "https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/v/expressing-a-quadratic-form-with-a-matrix",
-    "sourceType": "khan_academy"
+    "sourceType": "khan_academy",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic form to canonical form | Sreekanth Reddy",
     "url": "https://www.youtube.com/embed/DaI9cWx-uzw",
-    "sourceType": "youtube"
+    "sourceType": "youtube",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic form to canonical form | Alex Math Engineering",
     "url": "https://www.youtube.com/embed/g2Xvd1h6Kdw",
-    "sourceType": "youtube"
+    "sourceType": "youtube",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic form to canonical form | meeramaths",
     "url": "https://www.youtube.com/embed/s49gP19panE",
-    "sourceType": "youtube"
+    "sourceType": "youtube",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/QuadraticForm.html",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
+    "sourceType": "other",
+    "title": "Real Quadratic Form Reduction to Canonical Form | Article (English)",
+    "url": "https://mech.poriyaan.in/topic/real-quadratic-form-reduction-to-canonical-form-30178/",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
+    "sourceType": "youtube",
+    "title": "Reduction of Quadratic Form to Canonical Form | (Hindi)",
+    "url": "https://www.youtube.com/embed/3H5xAaDdA3I?start=90",
+    "lang": "hindi",
+    "unit": "3"
+  },
+  {
+    "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
+    "sourceType": "youtube",
+    "title": "Reduction of Quadratic Form to Canonical Form 2 | (Hindi)",
+    "url": "https://www.youtube.com/embed/HKzb3Elu1nA?start=60",
+    "lang": "hindi",
+    "unit": "3"
   },
   {
     "topic": "Nature of the Quadratic Forms",
     "title": " Nature of Quadratic forms(Problem)  | Alex Maths Engineering",
     "url": "https://www.youtube.com/embed/d8KUQSefUC8",
-    "sourceType": "youtube"
-  },
-  {
-    "topic": "Nature of the Quadratic Forms",
-    "title": " Quadratic form | Matrix form to Quadratic form | Examples solved  | Mathspedia",
-    "url": "https://www.youtube.com/embed/ToMFyAeHzIQ?end=295",
-    "sourceType": "youtube"
+    "sourceType": "youtube",
+    "lang": "problem",
+    "unit": "3"
   },
   {
     "topic": "Nature of the Quadratic Forms",
     "title": " Checking if a Matrix is Positive Definite  | Florian Ludewig",
     "url": "https://www.youtube.com/embed/ttMZB5Gm_fM",
-    "sourceType": "youtube"
+    "sourceType": "youtube",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Nature of the Quadratic Forms",
     "title": " Quadratic Form  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/QuadraticForm.html",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Nature of the Quadratic Forms",
+    "sourceType": "other",
+    "title": "Quadratic Form | Article (English)",
+    "url": "https://www.sciencedirect.com/topics/mathematics/quadratic-form",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Nature of the Quadratic Forms",
     "title": " Indefinite Quadratic Form  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/IndefiniteQuadraticForm.html",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Nature of the Quadratic Forms",
     "title": " Positive Definite Quadratic Form  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/PositiveDefiniteQuadraticForm.html",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Nature of the Quadratic Forms",
     "title": " Positive Semidefinite Quadratic Form  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/PositiveSemidefiniteQuadraticForm.html",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "3"
   },
   {
     "topic": "Nature of the Quadratic Forms",
     "title": " Negative Definite Matrix  | Wolfram MathWorld",
     "url": "https://mathworld.wolfram.com/NegativeDefiniteMatrix.html",
-    "sourceType": "other"
+    "sourceType": "other",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Nature of the Quadratic Forms",
+    "sourceType": "youtube",
+    "title": "Nature of the Quadratic Forms | (Hindi)",
+    "url": "https://www.youtube.com/embed/lnDk25U8DKE",
+    "lang": "hindi",
+    "unit": "3"
+  },
+  {
+    "topic": "Nature of the Quadratic Forms",
+    "sourceType": "youtube",
+    "title": "Canonical Form | Problem (Hindi)",
+    "url": "https://www.youtube.com/embed/Ba8KdrkejZk",
+    "lang": "hindi",
+    "unit": "3"
+  },
+  {
+    "topic": "Nature of the Quadratic Forms",
+    "sourceType": "youtube",
+    "title": "Nature of quadratic form 1(Telugu)",
+    "url": "https://www.youtube.com/embed/3sOehJc1u2k?start=63&end=1251",
+    "lang": "telugu",
+    "unit": "3"
+  },
+  {
+    "topic": "Nature of the Quadratic Forms",
+    "sourceType": "youtube",
+    "title": "Nature of quadratic form 2(Telugu)",
+    "url": "https://www.youtube.com/embed/1GFIy2_lH1Y?start=29&end=783",
+    "lang": "telugu",
+    "unit": "3"
   },
   {
     "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
     "sourceType": "youtube",
     "title": "Reduction of Quadratic form to Canonical form || Example ",
-    "url": "https://www.youtube.com/embed/_HC4imMVWNk"
+    "url": "https://www.youtube.com/embed/_HC4imMVWNk",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
+    "sourceType": "youtube",
+    "title": "Reduction of quadratic form to canonical form by orthogonal transformation (Telugu)",
+    "url": "https://www.youtube.com/embed/SI0izlxx4s4?start=90&end=1885",
+    "lang": "telugu",
+    "unit": "3"
   },
   {
     "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
     "sourceType": "youtube",
     "title": " Reduction of quadratic form to canonical form | Sreekanth Reddy (Hindi)",
-    "url": "https://www.youtube.com/embed/DaI9cWx-uzw"
+    "url": "https://www.youtube.com/embed/DaI9cWx-uzw",
+    "lang": "hindi",
+    "unit": "3"
   },
   {
     "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
     "sourceType": "youtube",
     "title": " Reduction of quadratic form to canonical form | (English)",
-    "url": "https://www.youtube.com/embed/s49gP19panE"
+    "url": "https://www.youtube.com/embed/s49gP19panE",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
+    "sourceType": "youtube",
+    "title": "Canonical Form | Problem (Hindi)",
+    "url": "https://www.youtube.com/embed/IAx3IYxR2nI",
+    "lang": "hindi",
+    "unit": "3"
+  },
+  {
+    "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
+    "sourceType": "youtube",
+    "title": "Orthogonal Transformation | Problem (Hindi)",
+    "url": "https://www.youtube.com/embed/OgUEsQscbBE",
+    "lang": "hindi",
+    "unit": "3"
+  },
+  {
+    "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
+    "sourceType": "youtube",
+    "title": "Reduction of quadratic form to canonical form by orthogonal transformation 1(Telugu)",
+    "url": "https://www.youtube.com/embed/jfE0CPKyWJ4?start=0&end=1416",
+    "lang": "telugu",
+    "unit": "3"
+  },
+  {
+    "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
+    "sourceType": "youtube",
+    "title": "Reduction of quadratic form to canonical form 2(Telugu)",
+    "url": "https://www.youtube.com/embed/9TILvB9zQNk?start=52&end=1482",
+    "lang": "telugu",
+    "unit": "3"
   }
 ]
