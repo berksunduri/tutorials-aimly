@@ -2,7 +2,7 @@
   {
     "topic": "Limits, Continuity, Differentiation",
     "sourceType": "youtube",
-    "title": "Limits and Continuity",
+    "title": "Limits and Continuity (English)",
     "url": "https://www.youtube.com/embed/9brk313DjV8",
     "lang": "english",
     "unit": "4"
@@ -10,7 +10,7 @@
   {
     "topic": "Limits, Continuity, Differentiation",
     "sourceType": "youtube",
-    "title": "Continuity and Differentiability",
+    "title": "Continuity and Differentiability(English)",
     "url": "https://www.youtube.com/embed/fml0-ELYLaE",
     "lang": "english",
     "unit": "4"
@@ -18,7 +18,7 @@
   {
     "topic": "Limits, Continuity, Differentiation",
     "sourceType": "youtube",
-    "title": "Limits, continuity and differentiability | Short Video",
+    "title": "Limits, continuity and differentiability | (English) Short Video",
     "url": "https://www.youtube.com/embed/uMgyho3mcT0",
     "lang": "english",
     "unit": "4"
@@ -26,7 +26,7 @@
   {
     "topic": "Limits, Continuity, Differentiation",
     "sourceType": "youtube",
-    "title": "Continuity and Differentiability EXPLAINED with Examples",
+    "title": "Continuity and Differentiability EXPLAINED with Examples (English)",
     "url": "https://www.youtube.com/embed/nRv1lPqrx3k",
     "lang": "english",
     "unit": "4"
@@ -34,7 +34,7 @@
   {
     "topic": "Limits, Continuity, Differentiation",
     "sourceType": "other",
-    "title": "Limits, Continuity and Differentiability",
+    "title": "Limits, Continuity and Differentiability (English)",
     "url": "https://www.geeksforgeeks.org/limits-continuity-differentiability/",
     "lang": "english",
     "unit": "4"
@@ -42,7 +42,7 @@
   {
     "topic": "Limits, Continuity, Differentiation",
     "sourceType": "other",
-    "title": "Limits, Continuity, and Differentiability",
+    "title": "Limits, Continuity, and Differentiability (English)",
     "url": "https://math.libretexts.org/Under_Construction/Purgatory/Book%3A_Active_Calculus_(Boelkins_et_al.)/01%3A_Understanding_the_Derivative/1.07%3A_Limits_Continuity_and_Differentiability",
     "lang": "english",
     "unit": "4"
@@ -138,7 +138,7 @@
   {
     "topic": "Jacobian Determinant, Functional dependence",
     "sourceType": "youtube",
-    "title": "The Jacobian matrix",
+    "title": "The Jacobian matrix (English)",
     "url": "https://www.youtube.com/embed/bohL918kXQk",
     "lang": "english",
     "unit": "4"
@@ -146,7 +146,7 @@
   {
     "topic": "Jacobian Determinant, Functional dependence",
     "sourceType": "youtube",
-    "title": "The Jacobian",
+    "title": "The Jacobian (English)",
     "url": "https://www.youtube.com/embed/Bw5yEqwMjQU",
     "lang": "english",
     "unit": "4"
@@ -154,7 +154,7 @@
   {
     "topic": "Jacobian Determinant, Functional dependence",
     "sourceType": "youtube",
-    "title": "Linear Algebra: Jacobian Determinant",
+    "title": "Linear Algebra: Jacobian Determinant (English)",
     "url": "https://www.youtube.com/embed/ywz8CYuAhy8",
     "lang": "english",
     "unit": "4"
@@ -162,7 +162,7 @@
   {
     "topic": "Jacobian Determinant, Functional dependence",
     "sourceType": "khan_academy",
-    "title": "The Jacobian Determinant",
+    "title": "The Jacobian Determinant (English)",
     "url": "https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/jacobian/v/the-jacobian-determinant",
     "lang": "english",
     "unit": "4"
@@ -170,7 +170,7 @@
   {
     "topic": "Jacobian Determinant, Functional dependence",
     "sourceType": "other",
-    "title": "Jacobian | MathWorld",
+    "title": "Jacobian | MathWorld (English)",
     "url": "https://mathworld.wolfram.com/Jacobian.html",
     "lang": "english",
     "unit": "4"
@@ -217,7 +217,7 @@
   },
   {
     "topic": "Taylor’s theorem of two variables",
-    "title": " Taylor's Theorem - Introduction | slcmath@pc",
+    "title": " Taylor's Theorem - Introduction | slcmath@pc (English)",
     "url": "https://www.youtube.com/embed/_PyuMFBvj8g",
     "sourceType": "youtube",
     "lang": "english",
@@ -225,7 +225,7 @@
   },
   {
     "topic": "Taylor’s theorem of two variables",
-    "title": " Taylor’s theorem of two variables | Math Monks",
+    "title": " Taylor’s theorem of two variables | Math Monks (English)",
     "url": "https://mathmonks.com/remainder-theorem/taylors-theorem",
     "sourceType": "other",
     "lang": "english",
@@ -233,7 +233,7 @@
   },
   {
     "topic": "Taylor’s theorem of two variables",
-    "title": " The Proof of TAYLOR'S THEOREM | Kyle Broder",
+    "title": " The Proof of TAYLOR'S THEOREM | Kyle Broder (English)",
     "url": "https://www.youtube.com/embed/y87iKV5PU24",
     "sourceType": "youtube",
     "lang": "english",
@@ -243,14 +243,6 @@
     "topic": "Taylor’s theorem of two variables",
     "sourceType": "youtube",
     "title": "Taylor’s theorem of two variables 1 (Telugu)",
-    "url": "https://www.youtube.com/embed/W7kFJRQcQc4v?start=64&end=931",
-    "lang": "telugu",
-    "unit": "4"
-  },
-  {
-    "topic": "Taylor’s theorem of two variables",
-    "sourceType": "youtube",
-    "title": "Taylor’s theorem of two variables 2 (Telugu)",
     "url": "https://www.youtube.com/embed/5xp-ATpXLXE?start=55&end=659",
     "lang": "telugu",
     "unit": "4"
@@ -289,7 +281,7 @@
   },
   {
     "topic": "Maxima and Minima of two variables",
-    "title": " Finding Local Maxima and Minima by Differentiation | Professor Dave Explains",
+    "title": " Finding Local Maxima and Minima by Differentiation | Professor Dave Explains (English)",
     "url": "https://www.youtube.com/embed/pvLj1s7SOtk",
     "sourceType": "youtube",
     "lang": "english",
@@ -297,7 +289,7 @@
   },
   {
     "topic": "Maxima and Minima of two variables",
-    "title": " Differentiation (Maxima and Minima) | 1st Class Maths",
+    "title": " Differentiation (Maxima and Minima) | 1st Class Maths (English)",
     "url": "https://www.youtube.com/embed/y9M6kmgSnw8",
     "sourceType": "youtube",
     "lang": "english",
@@ -305,7 +297,7 @@
   },
   {
     "topic": "Maxima and Minima of two variables",
-    "title": "Critical Points Introduction | Khan Academy",
+    "title": "Critical Points Introduction | Khan Academy (English)",
     "url": "https://www.youtube.com/embed/lDY9JcFaRd4",
     "sourceType": "youtube",
     "lang": "english",
@@ -313,7 +305,7 @@
   },
   {
     "topic": "Maxima and Minima of two variables",
-    "title": " Maxima and Minima | Geeks for Geeks",
+    "title": " Maxima and Minima | Geeks for Geeks (English)",
     "url": "https://www.geeksforgeeks.org/maxima-and-minima/",
     "sourceType": "other",
     "lang": "english",
@@ -321,7 +313,7 @@
   },
   {
     "topic": "Maxima and Minima of two variables",
-    "title": " Maxima and Minima | Math is fun",
+    "title": " Maxima and Minima | Math is fun (English)",
     "url": "https://www.mathsisfun.com/calculus/maxima-minima.html",
     "sourceType": "other",
     "lang": "english",
