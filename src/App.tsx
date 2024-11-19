@@ -13,15 +13,7 @@ import {
   CollapsibleContent,
   CollapsibleTrigger,
 } from "@/components/ui/collapsible";
-import {
-  Search,
-  ExternalLink,
-  Moon,
-  Sun,
-  ArrowLeft,
-  ChevronDown,
-  ChevronUp,
-} from "lucide-react";
+import { Search, Moon, Sun, ArrowLeft, ChevronDown, ChevronUp } from 'lucide-react';
 import logo from "./assets/logo.png";
 import { useTheme } from "./components/theme-provider";
 
@@ -45,7 +37,7 @@ const units: Unit[] = [
   { title: "Unit 5", data: fifthWeek as Tutorial[] },
 ];
 
-function App() {
+export default function Component() {
   const [searchTerm, setSearchTerm] = useState("");
   const [mounted, setMounted] = useState(false);
   const { theme, setTheme } = useTheme();
@@ -192,38 +184,9 @@ function App() {
                   <CollapsibleContent>
                     <CardContent>
                       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                        {tutorials.map((tutorial: Tutorial, index: number) =>
-                          tutorial.sourceType === "youtube" ? (
-                            <VideoCard key={index} tutorial={tutorial} />
-                          ) : (
-                            <Card
-                              key={index}
-                              className="hover:shadow-lg transition-shadow flex flex-col h-[230px]"
-                            >
-                              <CardHeader>
-                                <CardTitle className="text-lg">
-                                  {tutorial.title}
-                                </CardTitle>
-                              </CardHeader>
-                              <CardContent className="flex-grow flex flex-col justify-between">
-                                <Button
-                                  variant="outline"
-                                  className="w-full bg-primary text-primary-foreground hover:bg-primary/90"
-                                  asChild
-                                >
-                                  <a
-                                    href={tutorial.url}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                  >
-                                    <ExternalLink className="mr-2 h-4 w-4" />
-                                    Open Article
-                                  </a>
-                                </Button>
-                              </CardContent>
-                            </Card>
-                          )
-                        )}
+                        {tutorials.map((tutorial: Tutorial, index: number) => (
+                          <VideoCard key={index} tutorial={tutorial} />
+                        ))}
                       </div>
                     </CardContent>
                   </CollapsibleContent>
@@ -236,4 +199,3 @@ function App() {
     </div>
   );
 }
-export default App;

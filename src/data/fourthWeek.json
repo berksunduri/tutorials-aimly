@@ -104,6 +104,30 @@
     "unit": "4"
   },
   {
+    "topic": "Limits, Continuity, Differentiation",
+    "sourceType": "other",
+    "title": "Limits, Continuity, Differentiation 1 | Real-Life Applications (English)",
+    "url": "https://www.geeksforgeeks.org/real-life-applications-of-continuity/",
+    "lang": "english",
+    "unit": "4"
+  },
+  {
+    "topic": "Limits, Continuity, Differentiation",
+    "sourceType": "youtube",
+    "title": "Limits, Continuity, Differentiation 2 | Real-Life Applications (English)",
+    "url": "https://www.youtube.com/embed/e09ah5ZEaL8",
+    "lang": "english",
+    "unit": "4"
+  },
+  {
+    "topic": "Limits, Continuity, Differentiation",
+    "sourceType": "youtube",
+    "title": "Limits, Continuity, Differentiation 3 | Real-Life Applications (English)",
+    "url": "https://www.youtube.com/embed/VBqjPJ-kvKQ?start=60",
+    "lang": "english",
+    "unit": "4"
+  },
+  {
     "topic": "Partial differentiation",
     "sourceType": "youtube",
     "title": "Partial differentiation 1 (Telugu)",
@@ -133,6 +157,30 @@
     "title": "Partial differentiation 2 (Hindi)",
     "url": "https://www.youtube.com/embed/JP2KnIj1yXU?start=203&end=645",
     "lang": "hindi",
+    "unit": "4"
+  },
+  {
+    "topic": "Partial differentiation",
+    "sourceType": "youtube",
+    "title": "Partial differentiation 1 | Visual Explanation (English)",
+    "url": "https://www.youtube.com/embed/Pq-XpSZrg-8",
+    "lang": "english",
+    "unit": "4"
+  },
+  {
+    "topic": "Partial differentiation",
+    "sourceType": "youtube",
+    "title": "Partial differentiation 2 | Visual Explanation (English)",
+    "url": "https://www.youtube.com/embed/GkB4vW16QHI",
+    "lang": "english",
+    "unit": "4"
+  },
+  {
+    "topic": "Partial differentiation",
+    "sourceType": "youtube",
+    "title": "Partial differentiation 3 | Real-Life Application (English)",
+    "url": "https://www.youtube.com/embed/ifbaAqfqpc4",
+    "lang": "english",
     "unit": "4"
   },
   {
@@ -216,6 +264,14 @@
     "unit": "4"
   },
   {
+    "topic": "Jacobian Determinant, Functional dependence",
+    "sourceType": "youtube",
+    "title": "Jacobian Determinant, Functional dependence 1 | Visual Explanation (English)",
+    "url": "https://www.youtube.com/embed/p46QWyHQE6M",
+    "lang": "english",
+    "unit": "4"
+  },
+  {
     "topic": "Taylor’s theorem of two variables",
     "title": " Taylor's Theorem - Introduction | slcmath@pc (English)",
     "url": "https://www.youtube.com/embed/_PyuMFBvj8g",
@@ -277,6 +333,14 @@
     "title": "Taylor’s theorem of two variables 4 (Hindi)",
     "url": "https://www.youtube.com/embed/bSKio7jxYc4?start=472&end=620",
     "lang": "hindi",
+    "unit": "4"
+  },
+  {
+    "topic": "Taylor’s theorem of two variables",
+    "sourceType": "youtube",
+    "title": "Taylor’s theorem of two variables 1 | Visual Explanation (English)",
+    "url": "https://www.youtube.com/embed/3d6DsjIBzJ4",
+    "lang": "english",
     "unit": "4"
   },
   {
@@ -360,6 +424,22 @@
     "unit": "4"
   },
   {
+    "topic": "Maxima and Minima of two variables",
+    "sourceType": "youtube",
+    "title": "Maxima and Minima of two variables 1 | Visual Explanation (English)",
+    "url": "https://www.youtube.com/embed/ux7EQ3ip2DU",
+    "lang": "english",
+    "unit": "4"
+  },
+  {
+    "topic": "Maxima and Minima of two variables",
+    "sourceType": "youtube",
+    "title": "Maxima and Minima of two variables 2 | Visual Explanation (English)",
+    "url": "https://www.youtube.com/embed/8aAU4r_pUUU",
+    "lang": "english",
+    "unit": "4"
+  },
+  {
     "topic": "Lagrange’s method of undetermined Multipliers",
     "sourceType": "youtube",
     "title": "Lagrange’s method of undetermined Multipliers 1 (Telugu)",
@@ -389,6 +469,14 @@
     "title": "Lagrange’s method of undetermined Multiplier 2 (Hindi)",
     "url": "https://www.youtube.com/embed/cqex7DS3Snk?start=13&end=835",
     "lang": "hindi",
+    "unit": "4"
+  },
+  {
+    "topic": "Lagrange’s method of undetermined Multipliers",
+    "sourceType": "youtube",
+    "title": "Lagrange’s method of undetermined Multipliers 1 | Visual Explanation (English)",
+    "url": "https://www.youtube.com/embed/5A39Ht9Wcu0",
+    "lang": "english",
     "unit": "4"
   }
 ]
