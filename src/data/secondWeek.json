@@ -56,6 +56,30 @@
     "unit": "2"
   },
   {
+    "topic": "Eigen values and eigenvectors",
+    "sourceType": "youtube",
+    "title": "Eigen values and eigenvectors (1) | Real-Life Examples (English)",
+    "url": "https://www.youtube.com/embed/M-_XIjgk4P8",
+    "lang": "english",
+    "unit": "2"
+  },
+  {
+    "topic": "Eigen values and eigenvectors",
+    "sourceType": "youtube",
+    "title": "Eigen values and eigenvectors (2) | Real-Life Examples (English)",
+    "url": "https://www.youtube.com/embed/QW5FdLgeAwU",
+    "lang": "english",
+    "unit": "2"
+  },
+  {
+    "topic": "Eigen values and eigenvectors",
+    "sourceType": "youtube",
+    "title": "Eigen values and eigenvectors (3) | Real-Life Examples (English)",
+    "url": "https://www.youtube.com/embed/8F0gdO643Tc",
+    "lang": "english",
+    "unit": "2"
+  },
+  {
     "topic": "Properties of Eigenvalues and Eigenvectors",
     "sourceType": "youtube",
     "title": "Properties of Eigenvalues",
@@ -144,6 +168,14 @@
     "unit": "2"
   },
   {
+    "topic": "Cayley-Hamilton Theorem",
+    "sourceType": "youtube",
+    "title": "Cayley-Hamilton Theorem (1) | Real-Life Examples (English)",
+    "url": "https://www.youtube.com/embed/N8UsS_A_ZHQ",
+    "lang": "english",
+    "unit": "2"
+  },
+  {
     "topic": "Diagonalization of matrices",
     "sourceType": "youtube",
     "title": "Full Example: Diagonalizing a Matrix",
@@ -180,6 +212,22 @@
     "sourceType": "youtube",
     "title": "Diagonalization",
     "url": "https://www.youtube.com/embed/WTLl03D4TNA",
+    "lang": "english",
+    "unit": "2"
+  },
+  {
+    "topic": "Diagonalization of matrices",
+    "sourceType": "youtube",
+    "title": "Diagonalization of matrices (1) | Real-Life Examples (English)",
+    "url": "https://www.youtube.com/embed/yJ3EfoJmTFg",
+    "lang": "english",
+    "unit": "2"
+  },
+  {
+    "topic": "Diagonalization of matrices",
+    "sourceType": "youtube",
+    "title": "Diagonalization of matrices (2) | Real-Life Examples (English)",
+    "url": "https://www.youtube.com/embed/L6w_N2CdLFE",
     "lang": "english",
     "unit": "2"
   },

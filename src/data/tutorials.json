@@ -1,1960 +1,3470 @@
 [
   {
-      "topic": "Determinants",
-      "title": "Determinants | YSR EDUTECH CHANNEL",
-      "url": "https://www.youtube.com/embed/pycZ5GAcYdU",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Determinants",
-      "title": "Khan Academy | Determinants ",
-      "url": "https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-determinant-of-2x2-matrix/v/finding-the-determinant-of-a-2x2-matrix",
-      "sourceType": "khan_academy"
-    },
-    {
-      "topic": "Determinants",
-      "title": "Determinants | Garden University",
-      "url": "https://www.youtube.com/embed/SJOTtb1FTfs?start=1330&end=1990",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Determinants",
-      "title": "Properties Of determinants | GeeksForGeeks",
-      "url": "https://www.geeksforgeeks.org/properties-of-determinants-of-matrices/?ref=lbp",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Determinants",
-      "title": "Determinant | Wolfram MathWorld",
-      "url": "https://mathworld.wolfram.com/Determinant.html",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Cofactors",
-      "title": "The Cofactor of a Matrix | Infinity Learn NEET ",
-      "url": "https://www.youtube.com/embed/SvhwhTB9jyE",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Cofactors",
-      "title": "The Cofactor of a Matrix | Michel van Biezen ",
-      "url": "https://www.youtube.com/embed/EB6u_u-RzqQ",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Cofactors",
-      "title": "Cofactor of a Matrix: Formula and Examples | GeeksForGeeks ",
-      "url": "https://www.geeksforgeeks.org/cofactor-matrix/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Cofactors",
-      "title": "Cofactors | Wolfram MathWorld ",
-      "url": "https://mathworld.wolfram.com/Cofactor.html",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Cofactors",
-      "title": "Find the cofactor matrix (2×2 and 3×3) | Study Force ",
-      "url": "https://www.youtube.com/embed/WGyRLxThWJQ",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Eigen values and eigen vectors",
-      "title": "Eigen values and Eigen vectors | Solid Mechanics Classroom ",
-      "url": "https://www.youtube.com/embed/5UjQVJu89_Q",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Eigen values and eigen vectors",
-      "title": " Introduction to eigenvalues and eigenvectors  | Khan Academy ",
-      "url": "https://www.bing.com/videos/riverview/relatedvideo?q=Eigen+values+and+eigen+vectors+Khan+academy&mid=FB70109252B7F09AFDAAFB70109252B7F09AFDAA&FORM=VIRE",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Eigen values and eigen vectors",
-      "title": "How to find the Eigenvalues of a 3x3 Matrix | Cowan Academy ",
-      "url": "https://www.youtube.com/embed/9kfp85NpqfE",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Eigen values and eigen vectors",
-      "title": "Shortcut Trick to Find EigenValues of 3x3 Matrix | Fundamentals of Engineering ",
-      "url": "https://www.youtube.com/embed/uf9ZQwCEvP4?start=56",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Eigen values and eigen vectors",
-      "title": "Eigen Vector | Wolfram MathWorld ",
-      "url": "https://mathworld.wolfram.com/Eigenvector.html",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Eigen values and eigen vectors",
-      "title": "EigenValues and EigenVectors | GeeksForGeeks ",
-      "url": "https://www.geeksforgeeks.org/eigen-values/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Eigen values and eigen vectors",
-      "title": "EigenValues | Wolfram MathWorld ",
-      "url": "https://mathworld.wolfram.com/Eigenvalue.html",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Elementary matrices",
-      "title": "Elementary Matrices | Mathispower4u ",
-      "url": "https://www.youtube.com/embed/7H3JFH3IjB0",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Elementary matrices",
-      "title": " Elementary Matrices and Inverses | James Hamblin ",
-      "url": "https://www.youtube.com/embed/cMt5RQPdb5I?end=353",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Elementary matrices",
-      "title": "  Elementry Matrices | Wolfram MathWorld ",
-      "url": "https://mathworld.wolfram.com/ElementaryMatrix.html",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Elementary matrices",
-      "title": "  Elementry Matrices | GeeksForGeeks",
-      "url": "https://www.geeksforgeeks.org/elementary-matrices-discrete-mathematics/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Elementary transformations",
-      "title": "  Elementary Transformation Of Matrices | BYJU'S",
-      "url": "https://www.youtube.com/embed/BaHthPkpwoM",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Elementary transformations",
-      "title": "  Elementary Transformation Problem | TutorialsPoint",
-      "url": "https://www.youtube.com/embed/tvGi0suZW2U",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Elementary transformations",
-      "title": "   Elementary transformations | Wolfram MathWorld",
-      "url": "https://mathworld.wolfram.com/ElementaryRowandColumnOperations.html",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Elementary transformations",
-      "title": "   Elementary transformations | GeeksForGeeks",
-      "url": "https://www.geeksforgeeks.org/elementary-operations-on-matrices/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Inverse from elementary matrices",
-      "title": "  Inverse of a Matrix | GeeksForGeeks",
-      "url": "https://www.geeksforgeeks.org/inverse-of-matrix/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Inverse from elementary matrices",
-      "title": " Inverse of a Matrix by Elementary Operations - Testbook | Testbook",
-      "url": "https://testbook.com/maths/inverse-of-a-matrix-by-elementary-operations#:~:text=To%20find%20the%20inverse%2C%20we%20apply%20elementary%20row,I%20%3D%20BA%20or%20I%20%3D%20AB%20respectively.",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Inverse from elementary matrices",
-      "title": " Inverses of Elementary Matrices | ASU Tutoring Centers",
-      "url": "https://www.youtube.com/embed/b7cIax1pd-o?end=270",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Inverse from elementary matrices",
-      "title": " The Inverse of an Elementary Matrix | MathTheBeautiful",
-      "url": "https://www.youtube.com/embed/pYzDQmyOGf0?start=69&end=381",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "topic": "Matrices",
+      "title": " Matrices - Elements, Order and Position of an Element | Infinity Learn NEET",
+      "url": "https://www.youtube.com/embed/F37rd-BpVOo",
       "sourceType": "youtube",
-      "title": "Inverse Matrix Using Gauss-Jordan / Row Reduction | PatrickJMT",
-      "url": "https://www.youtube.com/embed/cJg2AuSFdjw"
-    },
-    {
-      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Matrices",
+      "title": " Transpose of a Matrix  | Infinity Learn NEET",
+      "url": "https://www.youtube.com/embed/g_Rz94DXvNo",
       "sourceType": "youtube",
-      "title": "Inverse of a 3x3 Matrix | The Organic Chemistry Tutor",
-      "url": "https://www.youtube.com/embed/Fg7_mv3izR0"
-    },
-    {
-      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Matrices",
+      "title": " Addition of Matrices  | Infinity Learn NEET",
+      "url": "https://www.youtube.com/embed/ZCmVpGv6_1g",
       "sourceType": "youtube",
-      "title": "Matrix Inverse By Gauss Jordan Method | Sujoy Krishna Das",
-      "url": "https://www.youtube.com/embed/j-XlBmi2PiM"
-    },
-    {
-      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Matrices",
+      "title": " Matrix addition and subtraction  | Khan Academy",
+      "url": "https://www.youtube.com/embed/WR9qCSXJlyY",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Matrices",
+      "title": " Multiplying a matrix by a matrix  | Khan Academy",
+      "url": "https://www.youtube.com/embed/OMA2Mwo0aZg",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Matrices",
+      "title": " Matrix (Matrices) rows columns rank  | MathsSmart",
+      "url": "https://www.youtube.com/embed/OVF7ZBtl-6g",
+      "sourceType": "youtube",
+      "lang": "matrices",
+      "unit": "1"
+  },
+  {
+      "topic": "Matrices",
+      "title": " Matrices  | Wolfram MathWorld",
+      "url": "https://mathworld.wolfram.com/topics/Matrices.html",
       "sourceType": "other",
-      "title": "Finding inverse of a matrix using Gauss - Jordan Method",
-      "url": "https://www.geeksforgeeks.org/finding-inverse-of-a-matrix-using-gauss-jordan-method/"
-    },
-    {
-      "topic": "Solutions of Homogeneous System of Linear Equations",
-      "sourceType": "youtube",
-      "title": "Linear Algebra 1.5.1 Homogeneous System Solutions | Kimberly Brehm",
-      "url": "https://www.youtube.com/embed/ODOztJ6YRUM?start=243&end=567 "
-    },
-    {
-      "topic": "Solutions of Homogeneous System of Linear Equations",
-      "sourceType": "youtube",
-      "title": "Homogeneous Systems of Linear Equations - Trivial Solution | PatrickJMT",
-      "url": "https://www.youtube.com/embed/JlJWyWJARRU?start=348&end=520"
-    },
-    {
-      "topic": "Solutions of Homogeneous System of Linear Equations",
-      "sourceType": "youtube",
-      "title": "Homogeneous Systems of Linear Equations - Non-Trivial Solution | PatrickJMT",
-      "url": "https://www.youtube.com/embed/lerx7O6HfFA?start=57&end=552 "
-    },
-    {
-      "topic": "Solutions of Homogeneous System of Linear Equations",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Matrices",
+      "title": " Matrices  | GeeksForGeeks",
+      "url": "https://www.geeksforgeeks.org/matrices/",
       "sourceType": "other",
-      "title": "Homogeneous Linear Equations | CueMath",
-      "url": "https://www.cuemath.com/algebra/homogeneous-system-of-linear-equations/"
-    },
-    {
-      "topic": "Solutions of Non-Homogeneous System of Linear Equations",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Matrices",
       "sourceType": "youtube",
-      "title": "Linear Algebra 1.5.2 Non-Homogeneous System Solutions | KKimberly Brehm",
-      "url": "https://www.youtube.com/embed/jsyutdYtOc4?start=140&end=493"
-    },
-    {
-      "topic": "Solutions of Non-Homogeneous System of Linear Equations",
+      "title": "Matrices (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/rowWM-MijXU",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Matrices",
       "sourceType": "youtube",
-      "title": "Matrices | System of linear Equations (Non-Homogeneous) | Prof. Yogesh Prabhu",
-      "url": "https://www.youtube.com/embed/cfH-XSH8NPk"
-    },
-    {
-      "topic": "Solutions of Non-Homogeneous System of Linear Equations",
-      "sourceType": "other",
-      "title": "Non-homogeneous system | Statlect",
-      "url": "https://www.statlect.com/matrix-algebra/non-homogeneous-system"
-    },
-    {
-      "topic": "Cayley-Hamilton theorem",
-      "title": " Cayley-Hamilton Theorem | Steve Brunton",
-      "url": "https://www.youtube.com/embed/PrfxmkBsYKE",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Cayley-Hamilton theorem",
-      "title": " The Cayley Hamilton Theorem | richard pates ",
-      "url": "https://www.youtube.com/embed/AM-GFrhuHkY?start=88&end=350",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Cayley-Hamilton theorem",
-      "title": " Cayley-Hamilton Theorem | Wolfram MathWorld",
-      "url": "https://mathworld.wolfram.com/Cayley-HamiltonTheorem.html",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Cayley-Hamilton theorem",
-      "title": " Cayley Hamilton Theorem Statement with Proof, Formula & Examples | Testbook",
-      "url": "https://testbook.com/maths/cayley-hamilton-theorem",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Linear and orthogonal transformations",
-      "title": " Linear & Orthogonal transformation | TechEdu Maths",
-      "url": "https://www.youtube.com/embed/wEzaw_Ll7u8?start=28&end=310",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Linear and orthogonal transformations",
-      "title": " Orthogonal Transformations | wishizukunde",
-      "url": "https://www.youtube.com/embed/FKD7fSO3HIs",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Linear and orthogonal transformations",
-      "title": " Sitis Scientia | Orthogonal transformations",
-      "url": "https://www.youtube.com/embed/HX7Fku4IamU?end=175",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Linear and orthogonal transformations",
-      "title": " Linear & Orthogonal transformation | TechEdu Maths",
-      "url": "https://www.youtube.com/embed/wEzaw_Ll7u8?start=314&end=563",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Linear and orthogonal transformations",
-      "title": " Orthogonal transformation | Wolfram MathWorld",
-      "url": "https://mathworld.wolfram.com/OrthogonalTransformation.html",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Linear and orthogonal transformations",
-      "title": " Linear Transformations | Wolfram MathWorld",
-      "url": "https://mathworld.wolfram.com/LinearTransformation.html",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Linear and orthogonal transformations",
-      "title": " Linear and Orthogonal Transformations | Unacademy",
-      "url": "https://unacademy.com/content/gate/study-material/mechanical-engineering/linear-and-orthogonal-transformations/",
-      "sourceType": "other"
-    },
-    {
+      "title": "Matrices (2) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/0oGJTQCy4cQ",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Matrices",
+      "sourceType": "youtube",
+      "title": "Matrices (3) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/4csuTO7UTMo",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
       "topic": "Matrices",
       "title": " Matrices - Elements, Order and Position of an Element | Infinity Learn NEET",
       "url": "https://www.youtube.com/embed/F37rd-BpVOo",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Matrices",
       "title": " Transpose of a Matrix  | Infinity Learn NEET",
       "url": "https://www.youtube.com/embed/g_Rz94DXvNo",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Matrices",
       "title": " Addition of Matrices  | Infinity Learn NEET",
       "url": "https://www.youtube.com/embed/ZCmVpGv6_1g",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Matrices",
       "title": " Matrix addition and subtraction  | Khan Academy",
       "url": "https://www.youtube.com/embed/WR9qCSXJlyY",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Matrices",
       "title": " Multiplying a matrix by a matrix  | Khan Academy",
       "url": "https://www.youtube.com/embed/OMA2Mwo0aZg",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Matrices",
       "title": " Matrix (Matrices) rows columns rank  | MathsSmart",
       "url": "https://www.youtube.com/embed/OVF7ZBtl-6g",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Matrices",
       "title": " Matrices  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/topics/Matrices.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Matrices",
       "title": " Matrices  | GeeksForGeeks",
       "url": "https://www.geeksforgeeks.org/matrices/",
       "sourceType": "other"
-    },
-    {
-      "topic": "Normal form of a matrix",
-      "title": " Matrices Normal Form or Canonical Form  | Ekeeda",
-      "url": "https://www.youtube.com/embed/QkOXZwLhZzk",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Normal form of a matrix",
-      "title": " Normal form of a matrix  | Chinmaya A.S.V",
-      "url": "https://www.youtube.com/embed/VTHz4gjzsKI",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Normal form of a matrix",
-      "title": " Normal form of a matrix  | Wolfram MathWorld",
-      "url": "https://mathworld.wolfram.com/NormalMatrix.html",
+  },
+  {
+      "topic": "Rank of a matrix by echelon form",
+      "title": "Echelon form and finding the rank of the matrix | BrainKart.com",
+      "url": "https://www.brainkart.com/article/Echelon-form-and-finding-the-rank-of-the-matrix-(upto-the-order-of-3--4)_38881/",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Rank of a matrix by echelon form",
+      "title": " Rank of a matrix | Vedantu",
+      "url": "https://www.vedantu.com/maths/matrix-rank",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Rank of a matrix by echelon form",
+      "title": "Rank of a matrix by echelon form  | Wrath of Math",
+      "url": "https://www.youtube.com/embed/cSj82GG6MX4",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Rank of a matrix by echelon form",
+      "title": "Method to find Rank Of Matrix | By Echelon Form | Prof. Yogesh Prabhu ",
+      "url": "https://www.youtube.com/embed/WvJ6U_tnPIQ&t=9s",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Rank of a matrix by echelon form",
+      "title": "Echelon form and finding the rank of the matrix | BrainKart.com",
+      "url": "https://www.brainkart.com/article/Echelon-form-and-finding-the-rank-of-the-matrix-(upto-the-order-of-3--4)_38881/",
       "sourceType": "other"
-    },
-    {
-      "topic": "Normal form of a matrix",
-      "title": " Normal form (for matrices)  | Encyclopedia of Mathematics",
-      "url": "https://encyclopediaofmath.org/wiki/Normal_form_(for_matrices)",
+  },
+  {
+      "topic": "Rank of a matrix by echelon form",
+      "title": " Rank of a matrix | Vedantu",
+      "url": "https://www.vedantu.com/maths/matrix-rank",
       "sourceType": "other"
-    },
-    {
+  },
+  {
+      "topic": "Rank of a matrix by echelon form",
+      "title": "Rank of a matrix by echelon form  | Wrath of Math",
+      "url": "https://www.youtube.com/embed/cSj82GG6MX4",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Rank of a matrix by echelon form",
+      "title": "Method to find Rank Of Matrix | By Echelon Form | Prof. Yogesh Prabhu ",
+      "url": "https://www.youtube.com/embed/WvJ6U_tnPIQ&t=9s",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": " Rank of a matrix | Wrath of Maths",
+      "url": "https://www.youtube.com/embed/cSj82GG6MX4",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": " Rank of a matrix | Geeks for Geeks",
+      "url": "https://www.geeksforgeeks.org/rank-of-matrix/",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": "Method to find Rank Of Matrix | By Normal Form | Prof. Yogesh Prabhu ",
+      "url": "https://www.youtube.com/embed/kaphHRq39JI?start=48&end=649",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": "Normal form of a matrix | Neeraj Saxena ",
+      "url": "https://www.youtube.com/embed/41a4NniwKbA?start=222&end=742",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": "Rank of a matrix | Cuemath",
+      "url": "https://www.cuemath.com/algebra/rank-of-a-matrix/",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": "Rank of Matrix by Reducing into Normal Form  Canonical Form | TEAM Education",
+      "url": "https://www.youtube.com/embed/WvJ6U_tnPIQ",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": " Rank of a matrix | Wrath of Maths",
+      "url": "https://www.youtube.com/embed/cSj82GG6MX4",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": " Rank of a matrix | Geeks for Geeks",
+      "url": "https://www.geeksforgeeks.org/rank-of-matrix/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": "Method to find Rank Of Matrix | By Normal Form | Prof. Yogesh Prabhu ",
+      "url": "https://www.youtube.com/embed/kaphHRq39JI?start=48&end=649",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": "Normal form of a matrix | Neeraj Saxena ",
+      "url": "https://www.youtube.com/embed/41a4NniwKbA?start=222&end=742",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": "Rank of a matrix | Cuemath",
+      "url": "https://www.cuemath.com/algebra/rank-of-a-matrix/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Rank of a matrix by normal form",
+      "title": "Rank of Matrix by Reducing into Normal Form  Canonical Form | TEAM Education",
+      "url": "https://www.youtube.com/embed/WvJ6U_tnPIQ",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "sourceType": "youtube",
+      "title": "Inverse Matrix Using Gauss-Jordan / Row Reduction | PatrickJMT",
+      "url": "https://www.youtube.com/embed/cJg2AuSFdjw",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "sourceType": "youtube",
+      "title": "Inverse of a 3x3 Matrix | The Organic Chemistry Tutor",
+      "url": "https://www.youtube.com/embed/Fg7_mv3izR0",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "sourceType": "youtube",
+      "title": "Matrix Inverse By Gauss Jordan Method | Sujoy Krishna Das",
+      "url": "https://www.youtube.com/embed/j-XlBmi2PiM",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "sourceType": "other",
+      "title": "Finding inverse of a matrix using Gauss - Jordan Method",
+      "url": "https://www.geeksforgeeks.org/finding-inverse-of-a-matrix-using-gauss-jordan-method/",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "sourceType": "youtube",
+      "title": "Inverse Matrix Using Gauss-Jordan / Row Reduction | PatrickJMT",
+      "url": "https://www.youtube.com/embed/cJg2AuSFdjw"
+  },
+  {
+      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "sourceType": "youtube",
+      "title": "Inverse of a 3x3 Matrix | The Organic Chemistry Tutor",
+      "url": "https://www.youtube.com/embed/Fg7_mv3izR0"
+  },
+  {
+      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "sourceType": "youtube",
+      "title": "Matrix Inverse By Gauss Jordan Method | Sujoy Krishna Das",
+      "url": "https://www.youtube.com/embed/j-XlBmi2PiM"
+  },
+  {
+      "topic": "Inverse of Non-singular matrices by Gauss-Jordan method",
+      "sourceType": "other",
+      "title": "Finding inverse of a matrix using Gauss - Jordan Method",
+      "url": "https://www.geeksforgeeks.org/finding-inverse-of-a-matrix-using-gauss-jordan-method/"
+  },
+  {
+      "topic": "Solutions of Homogeneous System of Linear Equations",
+      "sourceType": "youtube",
+      "title": "Linear Algebra 1.5.1 Homogeneous System Solutions | Kimberly Brehm",
+      "url": "https://www.youtube.com/embed/ODOztJ6YRUM?start=243&end=567 ",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Solutions of Homogeneous System of Linear Equations",
+      "sourceType": "youtube",
+      "title": "Homogeneous Systems of Linear Equations - Trivial Solution | PatrickJMT",
+      "url": "https://www.youtube.com/embed/JlJWyWJARRU?start=348&end=520",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Solutions of Homogeneous System of Linear Equations",
+      "sourceType": "youtube",
+      "title": "Homogeneous Systems of Linear Equations - Non-Trivial Solution | PatrickJMT",
+      "url": "https://www.youtube.com/embed/lerx7O6HfFA?start=57&end=552 ",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Solutions of Homogeneous System of Linear Equations",
+      "sourceType": "other",
+      "title": "Homogeneous Linear Equations | CueMath",
+      "url": "https://www.cuemath.com/algebra/homogeneous-system-of-linear-equations/",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Solutions of Homogeneous System of Linear Equations",
+      "sourceType": "youtube",
+      "title": "Linear Algebra 1.5.1 Homogeneous System Solutions | Kimberly Brehm",
+      "url": "https://www.youtube.com/embed/ODOztJ6YRUM?start=243&end=567 "
+  },
+  {
+      "topic": "Solutions of Homogeneous System of Linear Equations",
+      "sourceType": "youtube",
+      "title": "Homogeneous Systems of Linear Equations - Trivial Solution | PatrickJMT",
+      "url": "https://www.youtube.com/embed/JlJWyWJARRU?start=348&end=520"
+  },
+  {
+      "topic": "Solutions of Homogeneous System of Linear Equations",
+      "sourceType": "youtube",
+      "title": "Homogeneous Systems of Linear Equations - Non-Trivial Solution | PatrickJMT",
+      "url": "https://www.youtube.com/embed/lerx7O6HfFA?start=57&end=552 "
+  },
+  {
+      "topic": "Solutions of Homogeneous System of Linear Equations",
+      "sourceType": "other",
+      "title": "Homogeneous Linear Equations | CueMath",
+      "url": "https://www.cuemath.com/algebra/homogeneous-system-of-linear-equations/"
+  },
+  {
+      "topic": "Solutions of Non-Homogeneous System of Linear Equations",
+      "sourceType": "youtube",
+      "title": "Linear Algebra 1.5.2 Non-Homogeneous System Solutions | KKimberly Brehm",
+      "url": "https://www.youtube.com/embed/jsyutdYtOc4?start=140&end=493",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Solutions of Non-Homogeneous System of Linear Equations",
+      "sourceType": "youtube",
+      "title": "Matrices | System of linear Equations (Non-Homogeneous) | Prof. Yogesh Prabhu",
+      "url": "https://www.youtube.com/embed/cfH-XSH8NPk",
+      "lang": "non-homogeneous",
+      "unit": "1"
+  },
+  {
+      "topic": "Solutions of Non-Homogeneous System of Linear Equations",
+      "sourceType": "other",
+      "title": "Non-homogeneous system | Statlect",
+      "url": "https://www.statlect.com/matrix-algebra/non-homogeneous-system",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "Solutions of Non-Homogeneous System of Linear Equations",
+      "sourceType": "youtube",
+      "title": "Linear Algebra 1.5.2 Non-Homogeneous System Solutions | KKimberly Brehm",
+      "url": "https://www.youtube.com/embed/jsyutdYtOc4?start=140&end=493"
+  },
+  {
+      "topic": "Solutions of Non-Homogeneous System of Linear Equations",
+      "sourceType": "youtube",
+      "title": "Matrices | System of linear Equations (Non-Homogeneous) | Prof. Yogesh Prabhu",
+      "url": "https://www.youtube.com/embed/cfH-XSH8NPk"
+  },
+  {
+      "topic": "Solutions of Non-Homogeneous System of Linear Equations",
+      "sourceType": "other",
+      "title": "Non-homogeneous system | Statlect",
+      "url": "https://www.statlect.com/matrix-algebra/non-homogeneous-system"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "L U Decomposition | GeeksForGeeks",
+      "url": "https://www.geeksforgeeks.org/l-u-decomposition-system-linear-equations/",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "L U Decomposition | BYZU'S",
+      "url": "https://byjus.com/maths/lu-decomposition/",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "LU Factorization / LU Decomposition | Numerical Methods - An Example Calculation | StudySession",
+      "url": "https://www.youtube.com/embed/PORf7vXejbQ",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "LU Decomposition Example | Numerical Methods | StudySession",
+      "url": "https://www.youtube.com/embed/KbYSqIkkCTY",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "LU Factorization / LU Decomposition | Numerical Methods - An Example Calculation | StudySession",
+      "url": "https://www.youtube.com/embed/PORf7vXejbQ&ab_channel=StudySession",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "LU Decomposition Example | Numerical Methods | StudySession",
+      "url": "https://www.youtube.com/embed/KbYSqIkkCTY&ab_channel=StudySession",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "1"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "L U Decomposition | GeeksForGeeks",
+      "url": "https://www.geeksforgeeks.org/l-u-decomposition-system-linear-equations/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "L U Decomposition | BYZU'S",
+      "url": "https://byjus.com/maths/lu-decomposition/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "LU Factorization / LU Decomposition | Numerical Methods - An Example Calculation | StudySession",
+      "url": "https://www.youtube.com/embed/PORf7vXejbQ",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "LU Decomposition Example | Numerical Methods | StudySession",
+      "url": "https://www.youtube.com/embed/KbYSqIkkCTY",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "LU Factorization / LU Decomposition | Numerical Methods - An Example Calculation | StudySession",
+      "url": "https://www.youtube.com/embed/PORf7vXejbQ&ab_channel=StudySession",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "L U Decomposition",
+      "title": "LU Decomposition Example | Numerical Methods | StudySession",
+      "url": "https://www.youtube.com/embed/KbYSqIkkCTY&ab_channel=StudySession",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "Eigen values and Eigen vectors | Solid Mechanics Classroom ",
+      "url": "https://www.youtube.com/embed/5UjQVJu89_Q",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": " Introduction to eigenvalues and eigenvectors  | Khan Academy ",
+      "url": "https://www.bing.com/videos/riverview/relatedvideo?q=Eigen+values+and+eigen+vectors+Khan+academy&mid=FB70109252B7F09AFDAAFB70109252B7F09AFDAA&FORM=VIRE",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "How to find the Eigenvalues of a 3x3 Matrix | Cowan Academy ",
+      "url": "https://www.youtube.com/embed/9kfp85NpqfE",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "Shortcut Trick to Find EigenValues of 3x3 Matrix | Fundamentals of Engineering ",
+      "url": "https://www.youtube.com/embed/uf9ZQwCEvP4?start=56",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "Eigen Vector | Wolfram MathWorld ",
+      "url": "https://mathworld.wolfram.com/Eigenvector.html",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "EigenValues and EigenVectors | GeeksForGeeks ",
+      "url": "https://www.geeksforgeeks.org/eigen-values/",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "EigenValues | Wolfram MathWorld ",
+      "url": "https://mathworld.wolfram.com/Eigenvalue.html",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "Eigen values and Eigen vectors | Solid Mechanics Classroom ",
+      "url": "https://www.youtube.com/embed/5UjQVJu89_Q",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": " Introduction to eigenvalues and eigenvectors  | Khan Academy ",
+      "url": "https://www.bing.com/videos/riverview/relatedvideo?q=Eigen+values+and+eigen+vectors+Khan+academy&mid=FB70109252B7F09AFDAAFB70109252B7F09AFDAA&FORM=VIRE",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "How to find the Eigenvalues of a 3x3 Matrix | Cowan Academy ",
+      "url": "https://www.youtube.com/embed/9kfp85NpqfE",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "Shortcut Trick to Find EigenValues of 3x3 Matrix | Fundamentals of Engineering ",
+      "url": "https://www.youtube.com/embed/uf9ZQwCEvP4?start=56",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "Eigen Vector | Wolfram MathWorld ",
+      "url": "https://mathworld.wolfram.com/Eigenvector.html",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "EigenValues and EigenVectors | GeeksForGeeks ",
+      "url": "https://www.geeksforgeeks.org/eigen-values/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Eigen values and eigen vectors",
+      "title": "EigenValues | Wolfram MathWorld ",
+      "url": "https://mathworld.wolfram.com/Eigenvalue.html",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Eigen values and eigenvectors",
+      "sourceType": "youtube",
+      "title": "Eigen values and eigenvectors (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/M-_XIjgk4P8",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Eigen values and eigenvectors",
+      "sourceType": "youtube",
+      "title": "Eigen values and eigenvectors (2) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/QW5FdLgeAwU",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Eigen values and eigenvectors",
+      "sourceType": "youtube",
+      "title": "Eigen values and eigenvectors (3) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/8F0gdO643Tc",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues",
+      "url": "https://www.youtube.com/embed/7GOVm99SO3A",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues and Eigenvectors",
+      "url": "https://www.youtube.com/embed/rX3uwRdEYqM",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues",
+      "url": "https://www.youtube.com/embed/BGmTRu7WYoA",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues & Examples",
+      "url": "https://www.youtube.com/embed/3crZ-ogrQsM",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "title": " Properties of Eigen values and vectors   | Wolfram MathWorld",
+      "url": "https://mathworld.wolfram.com/Eigenvalue.html",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "title": " Properties of Eigen values and vectors  | Unacademy",
+      "url": "https://unacademy.com/content/jee/study-material/physics/properties-of-eigenvalues/",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "title": " Properties of Eigen values and vectors  | Geeks for Geeks",
+      "url": "https://www.geeksforgeeks.org/eigen-values/",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues",
+      "url": "https://www.youtube.com/embed/7GOVm99SO3A"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues and Eigenvectors",
+      "url": "https://www.youtube.com/embed/rX3uwRdEYqM"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues",
+      "url": "https://www.youtube.com/embed/BGmTRu7WYoA"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "sourceType": "youtube",
+      "title": "Properties of Eigenvalues & Examples",
+      "url": "https://www.youtube.com/embed/3crZ-ogrQsM"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "title": " Properties of Eigen values and vectors   | Wolfram MathWorld",
+      "url": "https://mathworld.wolfram.com/Eigenvalue.html",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "title": " Properties of Eigen values and vectors  | Unacademy",
+      "url": "https://unacademy.com/content/jee/study-material/physics/properties-of-eigenvalues/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Properties of Eigenvalues and Eigenvectors",
+      "title": " Properties of Eigen values and vectors  | Geeks for Geeks",
+      "url": "https://www.geeksforgeeks.org/eigen-values/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Cayley-Hamilton theorem",
+      "title": " Cayley-Hamilton Theorem | Steve Brunton",
+      "url": "https://www.youtube.com/embed/PrfxmkBsYKE",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Cayley-Hamilton theorem",
+      "title": " The Cayley Hamilton Theorem | richard pates ",
+      "url": "https://www.youtube.com/embed/AM-GFrhuHkY?start=88&end=350",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Cayley-Hamilton theorem",
+      "title": " Cayley-Hamilton Theorem | Wolfram MathWorld",
+      "url": "https://mathworld.wolfram.com/Cayley-HamiltonTheorem.html",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Cayley-Hamilton theorem",
+      "title": " Cayley Hamilton Theorem Statement with Proof, Formula & Examples | Testbook",
+      "url": "https://testbook.com/maths/cayley-hamilton-theorem",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Cayley-Hamilton theorem",
+      "title": " Cayley-Hamilton Theorem | Steve Brunton",
+      "url": "https://www.youtube.com/embed/PrfxmkBsYKE",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Cayley-Hamilton theorem",
+      "title": " The Cayley Hamilton Theorem | richard pates ",
+      "url": "https://www.youtube.com/embed/AM-GFrhuHkY?start=88&end=350",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Cayley-Hamilton theorem",
+      "title": " Cayley-Hamilton Theorem | Wolfram MathWorld",
+      "url": "https://mathworld.wolfram.com/Cayley-HamiltonTheorem.html",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Cayley-Hamilton theorem",
+      "title": " Cayley Hamilton Theorem Statement with Proof, Formula & Examples | Testbook",
+      "url": "https://testbook.com/maths/cayley-hamilton-theorem",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Cayley-Hamilton Theorem",
+      "sourceType": "youtube",
+      "title": "Cayley-Hamilton Theorem (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/N8UsS_A_ZHQ",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Full Example: Diagonalizing a Matrix",
+      "url": "https://www.youtube.com/embed/ieWyx2mlZyk",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Diagonalization of matrices | Linear Algebra",
+      "url": "https://www.youtube.com/embed/QdO7O4y10Z8",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "other",
+      "title": "Matrix diagonalization",
+      "url": "https://www.statlect.com/matrix-algebra/matrix-diagonalization",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Diagonalize a 3 by 3 Matrix (Full Process)",
+      "url": "https://www.youtube.com/embed/H74flsYlQ1w",
+      "lang": "full process",
+      "unit": "2"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Diagonalization",
+      "url": "https://www.youtube.com/embed/WTLl03D4TNA",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Diagonalization of matrices (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/yJ3EfoJmTFg",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Diagonalization of matrices (2) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/L6w_N2CdLFE",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Full Example: Diagonalizing a Matrix",
+      "url": "https://www.youtube.com/embed/ieWyx2mlZyk"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Diagonalization of matrices | Linear Algebra",
+      "url": "https://www.youtube.com/embed/QdO7O4y10Z8"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "other",
+      "title": "Matrix diagonalization",
+      "url": "https://www.statlect.com/matrix-algebra/matrix-diagonalization"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Diagonalize a 3 by 3 Matrix (Full Process)",
+      "url": "https://www.youtube.com/embed/H74flsYlQ1w"
+  },
+  {
+      "topic": "Diagonalization of matrices",
+      "sourceType": "youtube",
+      "title": "Diagonalization",
+      "url": "https://www.youtube.com/embed/WTLl03D4TNA"
+  },
+  {
+      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
+      "sourceType": "youtube",
+      "title": "Powers of a matrix using the Cayley-Hamilton theorem",
+      "url": "https://www.youtube.com/embed/GzqgJyisFvo",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
+      "sourceType": "youtube",
+      "title": "Cayley Hamilton : Inverse of a matrix | Mathspedia ",
+      "url": "https://www.youtube.com/embed/qJ-zw_meMQ0",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
+      "sourceType": "youtube",
+      "title": "Finding Powers of a Matrix using Cayley Hamilton Theorem",
+      "url": "https://www.youtube.com/embed/0xmI4xZxFe4",
+      "lang": "english",
+      "unit": "2"
+  },
+  {
+      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
+      "sourceType": "youtube",
+      "title": "Powers of a matrix using the Cayley-Hamilton theorem",
+      "url": "https://www.youtube.com/embed/GzqgJyisFvo"
+  },
+  {
+      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
+      "sourceType": "youtube",
+      "title": "Cayley Hamilton : Inverse of a matrix | Mathspedia ",
+      "url": "https://www.youtube.com/embed/qJ-zw_meMQ0"
+  },
+  {
+      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
+      "sourceType": "youtube",
+      "title": "Finding Powers of a Matrix using Cayley Hamilton Theorem",
+      "url": "https://www.youtube.com/embed/0xmI4xZxFe4"
+  },
+  {
       "topic": "Types of Complex Matrices and properties of complex matrices",
       "sourceType": "youtube",
       "title": "Complex Matrices | MIT (English)",
       "url": "https://www.youtube.com/embed/VYS9EYZ3gCo?start=5",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Types of Complex Matrices and properties of complex matrices",
       "sourceType": "other",
       "title": "Complex Matrices || Theory (English)",
       "url": "https://ximera.osu.edu/oerlinalg/LinearAlgebra/RTH-0050/main",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Types of Complex Matrices and properties of complex matrices",
       "sourceType": "other",
       "title": "Complex Matrix || MathWorld (English)",
       "url": "https://mathworld.wolfram.com/ComplexMatrix.html",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Types of Complex Matrices and properties of complex matrices",
       "sourceType": "youtube",
       "title": "Complex, Hermitian, and Unitary Matrices (English)",
       "url": "https://www.youtube.com/embed/DUuTx2nbizM?start=38",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Types of Complex Matrices and properties of complex matrices",
       "sourceType": "other",
       "title": "Complex matrix | Article (English)",
       "url": "https://www.algebrapracticeproblems.com/complex-matrix/",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Types of Complex Matrices and properties of complex matrices",
       "sourceType": "youtube",
       "title": "Complex Matrices | Video (Hindi)",
       "url": "https://www.youtube.com/embed/uSMipG-d4ic",
       "lang": "hindi",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Types of Complex Matrices and properties of complex matrices",
       "sourceType": "youtube",
       "title": "Special types of Matrices | (Hindi)",
       "url": "https://www.youtube.com/embed/Q3tfEHXy8nI",
       "lang": "hindi",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Types of Complex Matrices and properties of complex matrices",
       "sourceType": "youtube",
       "title": "Real Matrices (Symmetric & Skew-Symmetric) | (Hindi)",
       "url": "https://www.youtube.com/embed/Hymb0BglJg0",
       "lang": "symmetric & skew-symmetric",
       "unit": "3"
-    },
-    {
+  },
+  {
+      "topic": "Types of Complex Matrices and properties of complex matrices",
+      "sourceType": "youtube",
+      "title": "Types and properties of complex matrices 1(Telugu)",
+      "url": "https://www.youtube.com/embed/Zoc35ZyDHH8?start=345&end=726",
+      "lang": "telugu",
+      "unit": "3"
+  },
+  {
+      "topic": "Types of Complex Matrices and properties of complex matrices",
+      "sourceType": "youtube",
+      "title": "Types and properties of complex matrices 2(Telugu)",
+      "url": "https://www.youtube.com/embed/KUxriCzLa4I?start=64&end=549",
+      "lang": "telugu",
+      "unit": "3"
+  },
+  {
       "topic": "Types of Complex Matrices and properties of complex matrices",
       "sourceType": "youtube",
       "title": "Types and properties of complex matrices 1(telugu)",
       "url": "https://www.youtube.com/embed/Zoc35ZyDHH8?start=345&end=726",
       "lang": "telugu",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Types of Complex Matrices and properties of complex matrices",
       "sourceType": "youtube",
       "title": "Types and properties of complex matrices 2(telugu)",
       "url": "https://www.youtube.com/embed/KUxriCzLa4I?start=64&end=549",
       "lang": "telugu",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Eigen values and eigen vectors of complex matrices",
       "sourceType": "youtube",
       "title": "Eigen values of complex matrices | (Hindi)",
       "url": "https://www.youtube.com/embed/IUnh_EcudD4",
       "lang": "hindi",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Eigen values and eigen vectors of complex matrices",
       "sourceType": "youtube",
       "title": "Eigen Values and Eigen Vectors | (Hindi)",
       "url": "https://www.youtube.com/embed/h8sg_XBp6VA",
       "lang": "hindi",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Eigen values and eigen vectors of complex matrices",
       "sourceType": "youtube",
       "title": "Complex Eigenvalues and Eigenvectors || (English)",
       "url": "https://www.youtube.com/embed/d9neNf8_b0I",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Eigen values and eigen vectors of complex matrices",
       "sourceType": "youtube",
       "title": "Complex Eigenvalues and Eigenvectors || Example Solving (English)",
       "url": "https://www.youtube.com/embed/FOoi8h47Tw4",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Eigen values and eigen vectors of complex matrices",
       "sourceType": "youtube",
       "title": "Complex eigenvectors || Example Solving (English)",
       "url": "https://www.youtube.com/embed/SkXy4jpfczY?start=45",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Eigen values and eigen vectors of complex matrices",
       "sourceType": "youtube",
       "title": "Find Eigenvalues and Eigenvectors of 2 by 2 Matrix  || Example Solving (English)",
       "url": "https://www.youtube.com/embed/xbc9MYQkyRQ",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Eigen values and eigen vectors of complex matrices",
       "sourceType": "other",
       "title": "Complex Eigenvalues || Theory and Examples (English)",
       "url": "https://textbooks.math.gatech.edu/ila/complex-eigenvalues.html",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Eigen values and eigen vectors of complex matrices",
       "sourceType": "other",
       "title": "Complex Eigenvalues (and Eigenvectors)|| Theory and Examples (English)",
       "url": "https://interactivetextbooks.tudelft.nl/linear-algebra/Chapter6/ComplexEigenvalues.html",
       "lang": "and eigenvectors",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Eigen values and eigen vectors of complex matrices",
       "sourceType": "other",
       "title": "Complex Eigenvalues | Article (English)",
       "url": "https://math.libretexts.org/Bookshelves/Linear_Algebra/Interactive_Linear_Algebra_(Margalit_and_Rabinoff)/05%3A_Eigenvalues_and_Eigenvectors/5.04%3A_Complex_Eigenvalues",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Eigen values and eigen vectors of complex matrices",
       "sourceType": "youtube",
       "title": "Complex Eigenvalues | Video Example (English)",
       "url": "https://www.youtube.com/embed/K1Bwwo1Wfko",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
+      "topic": "Eigen values and eigen vectors of complex matrices",
+      "sourceType": "youtube",
+      "title": "Eigenvalues and eigenvectors 1(Telugu)",
+      "url": "https://www.youtube.com/embed/wRigOa73UzI?start=24&end=1747",
+      "lang": "telugu",
+      "unit": "3"
+  },
+  {
+      "topic": "Eigen values and eigen vectors of complex matrices",
+      "sourceType": "youtube",
+      "title": "Eigen values and eigen vectors of complex matrices (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/R13Cwgmpuxc",
+      "lang": "english",
+      "unit": "3"
+  },
+  {
+      "topic": "Eigen values and eigen vectors of complex matrices",
+      "sourceType": "youtube",
+      "title": "Eigen values and eigen vectors of complex matrices (2) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/i8FukKfMKCI",
+      "lang": "english",
+      "unit": "3"
+  },
+  {
       "topic": "Eigen values and eigen vectors of complex matrices",
       "sourceType": "youtube",
       "title": "Eigenvalues and eigenvectors 1(telugu)",
       "url": "https://www.youtube.com/embed/wRigOa73UzI?start=24&end=1747",
       "lang": "telugu",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
       "title": " Reduction of quadratic form to canonical form | Khan Academy",
       "url": "https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/v/expressing-a-quadratic-form-with-a-matrix",
       "sourceType": "khan_academy",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
       "title": " Reduction of quadratic form to canonical form | Sreekanth Reddy",
       "url": "https://www.youtube.com/embed/DaI9cWx-uzw",
       "sourceType": "youtube",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
       "title": " Reduction of quadratic form to canonical form | Alex Math Engineering",
       "url": "https://www.youtube.com/embed/g2Xvd1h6Kdw",
       "sourceType": "youtube",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
       "title": " Reduction of quadratic form to canonical form | meeramaths",
       "url": "https://www.youtube.com/embed/s49gP19panE",
       "sourceType": "youtube",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
       "title": " Reduction of quadratic | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/QuadraticForm.html",
       "sourceType": "other",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
       "sourceType": "other",
       "title": "Real Quadratic Form Reduction to Canonical Form | Article (English)",
       "url": "https://mech.poriyaan.in/topic/real-quadratic-form-reduction-to-canonical-form-30178/",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
       "sourceType": "youtube",
       "title": "Reduction of Quadratic Form to Canonical Form | (Hindi)",
       "url": "https://www.youtube.com/embed/3H5xAaDdA3I?start=90",
       "lang": "hindi",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
       "sourceType": "youtube",
       "title": "Reduction of Quadratic Form to Canonical Form 2 | (Hindi)",
       "url": "https://www.youtube.com/embed/HKzb3Elu1nA?start=60",
       "lang": "hindi",
       "unit": "3"
-    },
-    {
+  },
+  {
+      "topic": "Quadratic forms: Reduction of Quadratic form to canonical",
+      "sourceType": "article",
+      "title": "Quadratic forms: Reduction of Quadratic form to canonical (1) | Real-Life Examples (English)",
+      "url": "https://www.geeksforgeeks.org/canonical-and-standard-form/",
+      "lang": "english",
+      "unit": "3"
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "title": " Nature of Quadratic forms(Problem)  | Alex Maths Engineering",
       "url": "https://www.youtube.com/embed/d8KUQSefUC8",
       "sourceType": "youtube",
       "lang": "problem",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "title": " Checking if a Matrix is Positive Definite  | Florian Ludewig",
       "url": "https://www.youtube.com/embed/ttMZB5Gm_fM",
       "sourceType": "youtube",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "title": " Quadratic Form  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/QuadraticForm.html",
       "sourceType": "other",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "sourceType": "other",
       "title": "Quadratic Form | Article (English)",
       "url": "https://www.sciencedirect.com/topics/mathematics/quadratic-form",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "title": " Indefinite Quadratic Form  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/IndefiniteQuadraticForm.html",
       "sourceType": "other",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "title": " Positive Definite Quadratic Form  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/PositiveDefiniteQuadraticForm.html",
       "sourceType": "other",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "title": " Positive Semidefinite Quadratic Form  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/PositiveSemidefiniteQuadraticForm.html",
       "sourceType": "other",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "title": " Negative Definite Matrix  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/NegativeDefiniteMatrix.html",
       "sourceType": "other",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "sourceType": "youtube",
       "title": "Nature of the Quadratic Forms | (Hindi)",
       "url": "https://www.youtube.com/embed/lnDk25U8DKE",
       "lang": "hindi",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "sourceType": "youtube",
       "title": "Canonical Form | Problem (Hindi)",
       "url": "https://www.youtube.com/embed/Ba8KdrkejZk",
       "lang": "hindi",
       "unit": "3"
-    },
-    {
+  },
+  {
+      "topic": "Nature of the Quadratic Forms",
+      "sourceType": "youtube",
+      "title": "Nature of quadratic form 1(Telugu)",
+      "url": "https://www.youtube.com/embed/3sOehJc1u2k?start=63&end=1251",
+      "lang": "telugu",
+      "unit": "3"
+  },
+  {
+      "topic": "Nature of the Quadratic Forms",
+      "sourceType": "youtube",
+      "title": "Nature of quadratic form 2(Telugu)",
+      "url": "https://www.youtube.com/embed/1GFIy2_lH1Y?start=29&end=783",
+      "lang": "telugu",
+      "unit": "3"
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "sourceType": "youtube",
       "title": "Nature of quadratic form 1(telugu)",
       "url": "https://www.youtube.com/embed/3sOehJc1u2k?start=63&end=1251",
       "lang": "telugu",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Nature of the Quadratic Forms",
       "sourceType": "youtube",
       "title": "Nature of quadratic form 2(telugu)",
       "url": "https://www.youtube.com/embed/1GFIy2_lH1Y?start=29&end=783",
       "lang": "telugu",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
       "sourceType": "youtube",
       "title": "Reduction of Quadratic form to Canonical form || Example ",
       "url": "https://www.youtube.com/embed/_HC4imMVWNk",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
       "sourceType": "youtube",
-      "title": "Reduction of quadratic form to canonical form by orthogonal transformation (telugu)",
+      "title": "Reduction of quadratic form to canonical form by orthogonal transformation (Telugu)",
       "url": "https://www.youtube.com/embed/SI0izlxx4s4?start=90&end=1885",
       "lang": "telugu",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
       "sourceType": "youtube",
       "title": " Reduction of quadratic form to canonical form | Sreekanth Reddy (Hindi)",
       "url": "https://www.youtube.com/embed/DaI9cWx-uzw",
       "lang": "hindi",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
       "sourceType": "youtube",
       "title": " Reduction of quadratic form to canonical form | (English)",
       "url": "https://www.youtube.com/embed/s49gP19panE",
       "lang": "english",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
       "sourceType": "youtube",
       "title": "Canonical Form | Problem (Hindi)",
       "url": "https://www.youtube.com/embed/IAx3IYxR2nI",
       "lang": "hindi",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
       "sourceType": "youtube",
       "title": "Orthogonal Transformation | Problem (Hindi)",
       "url": "https://www.youtube.com/embed/OgUEsQscbBE",
       "lang": "hindi",
       "unit": "3"
-    },
-    {
+  },
+  {
+      "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
+      "sourceType": "youtube",
+      "title": "Reduction of quadratic form to canonical form by orthogonal transformation 1(Telugu)",
+      "url": "https://www.youtube.com/embed/jfE0CPKyWJ4?start=0&end=1416",
+      "lang": "telugu",
+      "unit": "3"
+  },
+  {
+      "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
+      "sourceType": "youtube",
+      "title": "Reduction of quadratic form to canonical form 2(Telugu)",
+      "url": "https://www.youtube.com/embed/9TILvB9zQNk?start=52&end=1482",
+      "lang": "telugu",
+      "unit": "3"
+  },
+  {
+      "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
+      "sourceType": "youtube",
+      "title": "Reduction of quadratic form to canonical form by orthogonal transformation (telugu)",
+      "url": "https://www.youtube.com/embed/SI0izlxx4s4?start=90&end=1885",
+      "lang": "telugu",
+      "unit": "3"
+  },
+  {
       "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
       "sourceType": "youtube",
       "title": "Reduction of quadratic form to canonical form by orthogonal transformation 1(telugu)",
       "url": "https://www.youtube.com/embed/jfE0CPKyWJ4?start=0&end=1416",
       "lang": "telugu",
       "unit": "3"
-    },
-    {
+  },
+  {
       "topic": "Reduction of Quadratic form to canonical by Orthogonal Transformation",
       "sourceType": "youtube",
       "title": "Reduction of quadratic form to canonical form 2(telugu)",
       "url": "https://www.youtube.com/embed/9TILvB9zQNk?start=52&end=1482",
       "lang": "telugu",
       "unit": "3"
-    },
-    {
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits and Continuity (English)",
+      "url": "https://www.youtube.com/embed/9brk313DjV8",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Continuity and Differentiability(English)",
+      "url": "https://www.youtube.com/embed/fml0-ELYLaE",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, continuity and differentiability | (English) Short Video",
+      "url": "https://www.youtube.com/embed/uMgyho3mcT0",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Continuity and Differentiability EXPLAINED with Examples (English)",
+      "url": "https://www.youtube.com/embed/nRv1lPqrx3k",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "other",
+      "title": "Limits, Continuity and Differentiability (English)",
+      "url": "https://www.geeksforgeeks.org/limits-continuity-differentiability/",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "other",
+      "title": "Limits, Continuity, and Differentiability (English)",
+      "url": "https://math.libretexts.org/Under_Construction/Purgatory/Book%3A_Active_Calculus_(Boelkins_et_al.)/01%3A_Understanding_the_Derivative/1.07%3A_Limits_Continuity_and_Differentiability",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, Continuity, Differentiation 1 (Telugu)",
+      "url": "https://www.youtube.com/embed/PsM_tXkiN38?start=1242&end=1475",
+      "lang": "telugu",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, Continuity, Differentiation 2 (Telugu)",
+      "url": "https://www.youtube.com/embed/gvga-03de6o?start=5455&end=5788",
+      "lang": "telugu",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, Continuity, Differentiation 1 (Hindi)",
+      "url": "https://www.youtube.com/embed/ZXNrEI5lIWs?start=79&end=142",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, Continuity, Differentiation 2 (Hindi)",
+      "url": "https://www.youtube.com/embed/ZXNrEI5lIWs?start=290&end=660",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, Continuity, Differentiation 3 (Hindi)",
+      "url": "https://www.youtube.com/embed/Xa8yAjojMSs?start=82&end=155",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, Continuity, Differentiation 4 (Hindi)",
+      "url": "https://www.youtube.com/embed/Xa8yAjojMSs?start=156&end=242",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, Continuity, Differentiation 5 (Hindi)",
+      "url": "https://www.youtube.com/embed/Xa8yAjojMSs?start=251&end=398",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "other",
+      "title": "Limits, Continuity, Differentiation 1 | Real-Life Applications (English)",
+      "url": "https://www.geeksforgeeks.org/real-life-applications-of-continuity/",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, Continuity, Differentiation 2 | Real-Life Applications (English)",
+      "url": "https://www.youtube.com/embed/e09ah5ZEaL8",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, Continuity, Differentiation 3 | Real-Life Applications (English)",
+      "url": "https://www.youtube.com/embed/VBqjPJ-kvKQ?start=60",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "article",
+      "title": "Limits, Continuity, Differentiation (1) | Real-Life Examples (English)",
+      "url": "https://www.geeksforgeeks.org/real-life-applications-of-continuity/",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, Continuity, Differentiation (2) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/e09ah5ZEaL8",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Limits, Continuity, Differentiation",
+      "sourceType": "youtube",
+      "title": "Limits, Continuity, Differentiation (3) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/VBqjPJ-kvKQ",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Partial differentiation",
+      "sourceType": "youtube",
+      "title": "Partial differentiation 1 (Telugu)",
+      "url": "https://www.youtube.com/embed/m1nL-ns2dMk?start=52&end=456",
+      "lang": "telugu",
+      "unit": "4"
+  },
+  {
+      "topic": "Partial differentiation",
+      "sourceType": "youtube",
+      "title": "Partial differentiation 2 (Telugu)",
+      "url": "https://www.youtube.com/embed/67gkzfLkYm0?start=0&end=2914",
+      "lang": "telugu",
+      "unit": "4"
+  },
+  {
+      "topic": "Partial differentiation",
+      "sourceType": "youtube",
+      "title": "Partial differentiation 1 (Hindi)",
+      "url": "https://www.youtube.com/embed/JP2KnIj1yXU?start=86&end=196",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Partial differentiation",
+      "sourceType": "youtube",
+      "title": "Partial differentiation 2 (Hindi)",
+      "url": "https://www.youtube.com/embed/JP2KnIj1yXU?start=203&end=645",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Partial differentiation",
+      "sourceType": "youtube",
+      "title": "Partial differentiation 1 | Visual Explanation (English)",
+      "url": "https://www.youtube.com/embed/Pq-XpSZrg-8",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Partial differentiation",
+      "sourceType": "youtube",
+      "title": "Partial differentiation 2 | Visual Explanation (English)",
+      "url": "https://www.youtube.com/embed/GkB4vW16QHI",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Partial differentiation",
+      "sourceType": "youtube",
+      "title": "Partial differentiation 3 | Real-Life Application (English)",
+      "url": "https://www.youtube.com/embed/ifbaAqfqpc4",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Partial differentiation",
+      "sourceType": "youtube",
+      "title": "Partial differentiation (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/Pq-XpSZrg-8",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Partial differentiation",
+      "sourceType": "youtube",
+      "title": "Partial differentiation (2) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/GkB4vW16QHI",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Partial differentiation",
+      "sourceType": "youtube",
+      "title": "Partial differentiation (3) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/ifbaAqfqpc4",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "youtube",
+      "title": "The Jacobian matrix (English)",
+      "url": "https://www.youtube.com/embed/bohL918kXQk",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "youtube",
+      "title": "The Jacobian (English)",
+      "url": "https://www.youtube.com/embed/Bw5yEqwMjQU",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "youtube",
+      "title": "Linear Algebra: Jacobian Determinant (English)",
+      "url": "https://www.youtube.com/embed/ywz8CYuAhy8",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "khan_academy",
+      "title": "The Jacobian Determinant (English)",
+      "url": "https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/jacobian/v/the-jacobian-determinant",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "other",
+      "title": "Jacobian | MathWorld (English)",
+      "url": "https://mathworld.wolfram.com/Jacobian.html",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "youtube",
+      "title": "Jacobian Determinant, Functional dependence 1 (Telugu)",
+      "url": "https://www.youtube.com/embed/EUfiuNLu8Tk?start=777&end=1160",
+      "lang": "telugu",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "youtube",
+      "title": "Jacobian Determinant, Functional dependence 2 (Telugu)",
+      "url": "https://www.youtube.com/embed/4z8unFLK8xI?start=32&end=1190",
+      "lang": "telugu",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "youtube",
+      "title": "Jacobian Determinant, Functional dependence 1 (Hindi)",
+      "url": "https://www.youtube.com/embed/YXmeH1yevkk?start=69&end=115",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "youtube",
+      "title": "Jacobian Determinant, Functional dependence 2 (Hindi)",
+      "url": "https://www.youtube.com/embed/YXmeH1yevkk?start=116&end=444",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "youtube",
+      "title": "Functional Dependence 4 (Hindi)",
+      "url": "https://www.youtube.com/embed/Al2odERqCuA?start=27&end=954",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "youtube",
+      "title": "Jacobian Determinant, Functional dependence (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/p46QWyHQE6M",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Jacobian Determinant, Functional dependence",
+      "sourceType": "youtube",
+      "title": "Jacobian Determinant, Functional dependence 1 | Visual Explanation (English)",
+      "url": "https://www.youtube.com/embed/p46QWyHQE6M",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem of two variables",
+      "title": " Taylor's Theorem - Introduction | slcmath@pc (English)",
+      "url": "https://www.youtube.com/embed/_PyuMFBvj8g",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem of two variables",
+      "title": " Taylor\u00e2\u20ac\u2122s theorem of two variables | Math Monks (English)",
+      "url": "https://mathmonks.com/remainder-theorem/taylors-theorem",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem of two variables",
+      "title": " The Proof of TAYLOR'S THEOREM | Kyle Broder (English)",
+      "url": "https://www.youtube.com/embed/y87iKV5PU24",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem of two variables",
+      "sourceType": "youtube",
+      "title": "Taylor\u00e2\u20ac\u2122s theorem of two variables 1 (Telugu)",
+      "url": "https://www.youtube.com/embed/5xp-ATpXLXE?start=55&end=659",
+      "lang": "telugu",
+      "unit": "4"
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem of two variables",
+      "sourceType": "youtube",
+      "title": "Taylor\u00e2\u20ac\u2122s theorem of two variables 1 (Hindi)",
+      "url": "https://www.youtube.com/embed/bSKio7jxYc4?start=87&end=240",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem of two variables",
+      "sourceType": "youtube",
+      "title": "Taylor\u00e2\u20ac\u2122s theorem of two variables 2 (Hindi)",
+      "url": "https://www.youtube.com/embed/bSKio7jxYc4?start=242&end=370",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem of two variables",
+      "sourceType": "youtube",
+      "title": "Taylor\u00e2\u20ac\u2122s theorem of two variables 3 (Hindi)",
+      "url": "https://www.youtube.com/embed/bSKio7jxYc4?start=383&end=469",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem of two variables",
+      "sourceType": "youtube",
+      "title": "Taylor\u00e2\u20ac\u2122s theorem of two variables 4 (Hindi)",
+      "url": "https://www.youtube.com/embed/bSKio7jxYc4?start=472&end=620",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem of two variables",
+      "sourceType": "youtube",
+      "title": "Taylor\u00e2\u20ac\u2122s theorem of two variables 1 | Visual Explanation (English)",
+      "url": "https://www.youtube.com/embed/3d6DsjIBzJ4",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem of two variables",
+      "sourceType": "youtube",
+      "title": "Taylor\u00e2\u20ac\u2122s theorem of two variables (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/3d6DsjIBzJ4",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "title": " Finding Local Maxima and Minima by Differentiation | Professor Dave Explains (English)",
+      "url": "https://www.youtube.com/embed/pvLj1s7SOtk",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "title": " Differentiation (Maxima and Minima) | 1st Class Maths (English)",
+      "url": "https://www.youtube.com/embed/y9M6kmgSnw8",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "title": "Critical Points Introduction | Khan Academy (English)",
+      "url": "https://www.youtube.com/embed/lDY9JcFaRd4",
+      "sourceType": "youtube",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "title": " Maxima and Minima | Geeks for Geeks (English)",
+      "url": "https://www.geeksforgeeks.org/maxima-and-minima/",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "title": " Maxima and Minima | Math is fun (English)",
+      "url": "https://www.mathsisfun.com/calculus/maxima-minima.html",
+      "sourceType": "other",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "sourceType": "youtube",
+      "title": "Maxima and Minima of two variables 1 (Telugu)",
+      "url": "https://www.youtube.com/embed/ySSHjaEA9gI?start=134&end=1460",
+      "lang": "telugu",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "sourceType": "youtube",
+      "title": "Maxima and Minima of two variables 2 (Telugu)",
+      "url": "https://www.youtube.com/embed/WJoYV3oDaxg?start=51&end=1044",
+      "lang": "telugu",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "sourceType": "youtube",
+      "title": "Maxima and Minima of two variables 1 (Hindi)",
+      "url": "https://www.youtube.com/embed/NpR91wexqHA?start=36&end=93",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "sourceType": "youtube",
+      "title": "Maxima and Minima of two variables 2 (Hindi)",
+      "url": "https://www.youtube.com/embed/NpR91wexqHA?start=96&end=348",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "sourceType": "youtube",
+      "title": "Maxima and Minima of two variables 3 (Hindi)",
+      "url": "https://www.youtube.com/embed/NpR91wexqHA?start=349&end=634",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "sourceType": "youtube",
+      "title": "Maxima and Minima of two variables 1 | Visual Explanation (English)",
+      "url": "https://www.youtube.com/embed/ux7EQ3ip2DU",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "sourceType": "youtube",
+      "title": "Maxima and Minima of two variables 2 | Visual Explanation (English)",
+      "url": "https://www.youtube.com/embed/8aAU4r_pUUU",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "sourceType": "youtube",
+      "title": "Maxima and Minima of two variables (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/ux7EQ3ip2DU",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Maxima and Minima of two variables",
+      "sourceType": "youtube",
+      "title": "Maxima and Minima of two variables (2) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/8aAU4r_pUUU",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multipliers",
+      "sourceType": "youtube",
+      "title": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multipliers 1 (Telugu)",
+      "url": "https://www.youtube.com/embed/gkSewGTWH-A?start=35&end=671",
+      "lang": "telugu",
+      "unit": "4"
+  },
+  {
+      "topic": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multipliers",
+      "sourceType": "youtube",
+      "title": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multipliers 2 (Telugu)",
+      "url": "https://www.youtube.com/embed/cqex7DS3Snk?start=13&end=835",
+      "lang": "telugu",
+      "unit": "4"
+  },
+  {
+      "topic": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multipliers",
+      "sourceType": "youtube",
+      "title": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multiplier 1 (Hindi)",
+      "url": "https://www.youtube.com/embed/gkSewGTWH-A?start=35&end=671",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multipliers",
+      "sourceType": "youtube",
+      "title": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multiplier 2 (Hindi)",
+      "url": "https://www.youtube.com/embed/cqex7DS3Snk?start=13&end=835",
+      "lang": "hindi",
+      "unit": "4"
+  },
+  {
+      "topic": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multipliers",
+      "sourceType": "youtube",
+      "title": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multipliers 1 | Visual Explanation (English)",
+      "url": "https://www.youtube.com/embed/5A39Ht9Wcu0",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multipliers",
+      "sourceType": "youtube",
+      "title": "Lagrange\u00e2\u20ac\u2122s method of undetermined Multipliers (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/5A39Ht9Wcu0",
+      "lang": "english",
+      "unit": "4"
+  },
+  {
+      "topic": "Evaluation of Double Integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Double Integrals 1 |  (Telugu)",
+      "url": "https://www.youtube.com/embed/jl9RZaq09j0?start=12&end=375",
+      "lang": "telugu",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Double Integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Double Integrals 2 |  (Telugu)",
+      "url": "https://www.youtube.com/embed/rxlSoKBW4B0?start=46&end=383",
+      "lang": "telugu",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Double Integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Double Integrals 4 |  (English)",
+      "url": "https://www.youtube.com/embed/BJ_0FURo9RE?start=350&end=553",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Double Integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Double Integrals 1 | (Hindi)",
+      "url": "https://www.youtube.com/embed/db7d_a0wiUg?start=57&end=217",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Double Integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Double Integrals 2 | (Hindi)",
+      "url": "https://www.youtube.com/embed/E7tmn0MUFqM?start=45&end=380",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Double Integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Double Integrals | Visual Explanation English",
+      "url": "https://www.youtube.com/embed/gifQWtTWqEY",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Double Integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Double Integrals (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/gifQWtTWqEY",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of order of integration",
+      "sourceType": "youtube",
+      "title": "Change of order of integration 1 |  (Telugu)",
+      "url": "https://www.youtube.com/embed/oyFQBEGUyjs?start=28&end=450",
+      "lang": "telugu",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of order of integration",
+      "sourceType": "youtube",
+      "title": "Change of order of integration 2 |  (Telugu)",
+      "url": "https://www.youtube.com/embed/BZoSZ_MDSmQ?start=631&end=1084",
+      "lang": "telugu",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of order of integration",
+      "sourceType": "youtube",
+      "title": "Change of order of integration 4 |  (English)",
+      "url": "https://www.youtube.com/embed/LUvynduoUX0",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of order of integration",
+      "sourceType": "youtube",
+      "title": "Change of order of integration 5 |  (English)",
+      "url": "https://www.youtube.com/embed/QNvrYcVEhnc?start=32&end=377",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of order of integration",
+      "sourceType": "youtube",
+      "title": "Change of order of integration 1 | (Hindi)",
+      "url": "https://www.youtube.com/embed/fXMyLYwBB3s?start=420&end=660",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of order of integration",
+      "sourceType": "youtube",
+      "title": "Change of order of integration 2 | (Hindi)",
+      "url": "https://www.youtube.com/embed/fXMyLYwBB3s?start=660&end=780",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of order of integration",
+      "sourceType": "youtube",
+      "title": "Change of order of integration 3 | (Hindi)",
+      "url": "https://www.youtube.com/embed/fXMyLYwBB3s?start=780&end=1290",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in double integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in double integrals 1 |  (Telugu)",
+      "url": "https://www.youtube.com/embed/uCKbmfGdykk?start=1206&end=1586",
+      "lang": "telugu",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in double integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in double integrals 2 |  (Telugu)",
+      "url": "https://www.youtube.com/embed/VEV93AXBR5I?start=30&end=915",
+      "lang": "telugu",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in double integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in double integrals 3 |  (English)",
+      "url": "https://www.youtube.com/embed/I2cCs5xR-Gc",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in double integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in double integrals 4 |  (English)",
+      "url": "https://www.youtube.com/embed/WQxo3gJw0X0",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in double integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in double integrals 1 | (Hindi)",
+      "url": "https://www.youtube.com/embed/Tw7nZdSO7tM?start=66&end=180",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in double integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in double integrals 2 | (Hindi)",
+      "url": "https://www.youtube.com/embed/lNSmyPdQbVc?start=184&end=495",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in double integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in double integrals 1 | Visual Explanation English",
+      "url": "https://www.youtube.com/embed/DTVk8oa2f8s",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in double integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in double integrals 2 | Visual Explanation English",
+      "url": "https://www.youtube.com/embed/GHBMiscPE-g",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in double integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in double integrals (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/DTVk8oa2f8s",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in double integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in double integrals (2) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/GHBMiscPE-g",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Triple integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Triple integrals 1 |  (Telugu)",
+      "url": "https://www.youtube.com/embed/oEdp0tnienQ?start=37&end=479",
+      "lang": "telugu",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Triple integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Triple integrals 2 |  (Telugu)",
+      "url": "https://www.youtube.com/embed/__E9cYNGawM?start=325&end=691",
+      "lang": "telugu",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Triple integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Triple integrals 3 |  (English)",
+      "url": "https://www.youtube.com/embed/7iy83x8bv6o?start=0&end=278",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Triple integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Triple integrals 4 |  (English)",
+      "url": "https://www.youtube.com/embed/l3par0Ltais",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Triple integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Triple integrals | Visual Explanation English",
+      "url": "https://www.youtube.com/embed/12B4QQZVM1c",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Triple integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Triple integrals (1) | Real-Life Examples (English)",
+      "url": "https://www.youtube.com/embed/12B4QQZVM1c",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Triple Integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Triple Integrals 1 | (Hindi)",
+      "url": "https://www.youtube.com/embed/XHCIaI_Nfrc?start=120&end=462",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Triple Integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Triple Integrals 2 | (Hindi)",
+      "url": "https://www.youtube.com/embed/Ts5__DNuaGw?start=230&end=585",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Evaluation of Triple Integrals",
+      "sourceType": "youtube",
+      "title": "Evaluation of Triple Integrals 3 | (Hindi)",
+      "url": "https://www.youtube.com/embed/B03jHtSu5L8?start=195&end=790",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in triple integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in triple integrals 1 |  (Telugu)",
+      "url": "https://www.youtube.com/embed/mNzMhhlYCUY?start=60&end=295",
+      "lang": "telugu",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in triple integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in triple integrals 2 |  (English)",
+      "url": "https://www.youtube.com/embed/SXJPLy-7JjQ",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in triple integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in triple integrals 3 |  (English)",
+      "url": "https://www.youtube.com/embed/VA358ApLkas",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in triple integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in triple integrals 4 |  (English)",
+      "url": "https://www.youtube.com/embed/dkpM9nKghY8",
+      "lang": "english",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in triple integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in triple integrals 1 | (Hindi)",
+      "url": "https://www.youtube.com/embed/Gt5ApX3oIN0?start=116&end=220",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Change of variables in triple integrals",
+      "sourceType": "youtube",
+      "title": "Change of variables in triple integrals 2 | Change in Variable | Jacobian | Multiple Integration (Hindi)",
+      "url": "https://www.youtube.com/embed/a334vcCiZ78?start=22",
+      "lang": "hindi",
+      "unit": "5"
+  },
+  {
+      "topic": "Determinants",
+      "title": "Determinants | YSR EDUTECH CHANNEL",
+      "url": "https://www.youtube.com/embed/pycZ5GAcYdU",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Determinants",
+      "title": "Khan Academy | Determinants ",
+      "url": "https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-determinant-of-2x2-matrix/v/finding-the-determinant-of-a-2x2-matrix",
+      "sourceType": "khan_academy"
+  },
+  {
+      "topic": "Determinants",
+      "title": "Determinants | Garden University",
+      "url": "https://www.youtube.com/embed/SJOTtb1FTfs?start=1330&end=1990",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Determinants",
+      "title": "Properties Of determinants | GeeksForGeeks",
+      "url": "https://www.geeksforgeeks.org/properties-of-determinants-of-matrices/?ref=lbp",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Determinants",
+      "title": "Determinant | Wolfram MathWorld",
+      "url": "https://mathworld.wolfram.com/Determinant.html",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Cofactors",
+      "title": "The Cofactor of a Matrix | Infinity Learn NEET ",
+      "url": "https://www.youtube.com/embed/SvhwhTB9jyE",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Cofactors",
+      "title": "The Cofactor of a Matrix | Michel van Biezen ",
+      "url": "https://www.youtube.com/embed/EB6u_u-RzqQ",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Cofactors",
+      "title": "Cofactor of a Matrix: Formula and Examples | GeeksForGeeks ",
+      "url": "https://www.geeksforgeeks.org/cofactor-matrix/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Cofactors",
+      "title": "Cofactors | Wolfram MathWorld ",
+      "url": "https://mathworld.wolfram.com/Cofactor.html",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Cofactors",
+      "title": "Find the cofactor matrix (2\u00c3\u20142 and 3\u00c3\u20143) | Study Force ",
+      "url": "https://www.youtube.com/embed/WGyRLxThWJQ",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Elementary matrices",
+      "title": "Elementary Matrices | Mathispower4u ",
+      "url": "https://www.youtube.com/embed/7H3JFH3IjB0",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Elementary matrices",
+      "title": " Elementary Matrices and Inverses | James Hamblin ",
+      "url": "https://www.youtube.com/embed/cMt5RQPdb5I?end=353",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Elementary matrices",
+      "title": "  Elementry Matrices | Wolfram MathWorld ",
+      "url": "https://mathworld.wolfram.com/ElementaryMatrix.html",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Elementary matrices",
+      "title": "  Elementry Matrices | GeeksForGeeks",
+      "url": "https://www.geeksforgeeks.org/elementary-matrices-discrete-mathematics/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Elementary transformations",
+      "title": "  Elementary Transformation Of Matrices | BYJU'S",
+      "url": "https://www.youtube.com/embed/BaHthPkpwoM",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Elementary transformations",
+      "title": "  Elementary Transformation Problem | TutorialsPoint",
+      "url": "https://www.youtube.com/embed/tvGi0suZW2U",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Elementary transformations",
+      "title": "   Elementary transformations | Wolfram MathWorld",
+      "url": "https://mathworld.wolfram.com/ElementaryRowandColumnOperations.html",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Elementary transformations",
+      "title": "   Elementary transformations | GeeksForGeeks",
+      "url": "https://www.geeksforgeeks.org/elementary-operations-on-matrices/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Inverse from elementary matrices",
+      "title": "  Inverse of a Matrix | GeeksForGeeks",
+      "url": "https://www.geeksforgeeks.org/inverse-of-matrix/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Inverse from elementary matrices",
+      "title": " Inverse of a Matrix by Elementary Operations - Testbook | Testbook",
+      "url": "https://testbook.com/maths/inverse-of-a-matrix-by-elementary-operations#:~:text=To%20find%20the%20inverse%2C%20we%20apply%20elementary%20row,I%20%3D%20BA%20or%20I%20%3D%20AB%20respectively.",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Inverse from elementary matrices",
+      "title": " Inverses of Elementary Matrices | ASU Tutoring Centers",
+      "url": "https://www.youtube.com/embed/b7cIax1pd-o?end=270",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Inverse from elementary matrices",
+      "title": " The Inverse of an Elementary Matrix | MathTheBeautiful",
+      "url": "https://www.youtube.com/embed/pYzDQmyOGf0?start=69&end=381",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Linear and orthogonal transformations",
+      "title": " Linear & Orthogonal transformation | TechEdu Maths",
+      "url": "https://www.youtube.com/embed/wEzaw_Ll7u8?start=28&end=310",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Linear and orthogonal transformations",
+      "title": " Orthogonal Transformations | wishizukunde",
+      "url": "https://www.youtube.com/embed/FKD7fSO3HIs",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Linear and orthogonal transformations",
+      "title": " Sitis Scientia | Orthogonal transformations",
+      "url": "https://www.youtube.com/embed/HX7Fku4IamU?end=175",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Linear and orthogonal transformations",
+      "title": " Linear & Orthogonal transformation | TechEdu Maths",
+      "url": "https://www.youtube.com/embed/wEzaw_Ll7u8?start=314&end=563",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Linear and orthogonal transformations",
+      "title": " Orthogonal transformation | Wolfram MathWorld",
+      "url": "https://mathworld.wolfram.com/OrthogonalTransformation.html",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Linear and orthogonal transformations",
+      "title": " Linear Transformations | Wolfram MathWorld",
+      "url": "https://mathworld.wolfram.com/LinearTransformation.html",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Linear and orthogonal transformations",
+      "title": " Linear and Orthogonal Transformations | Unacademy",
+      "url": "https://unacademy.com/content/gate/study-material/mechanical-engineering/linear-and-orthogonal-transformations/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Normal form of a matrix",
+      "title": " Matrices Normal Form or Canonical Form  | Ekeeda",
+      "url": "https://www.youtube.com/embed/QkOXZwLhZzk",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Normal form of a matrix",
+      "title": " Normal form of a matrix  | Chinmaya A.S.V",
+      "url": "https://www.youtube.com/embed/VTHz4gjzsKI",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Normal form of a matrix",
+      "title": " Normal form of a matrix  | Wolfram MathWorld",
+      "url": "https://mathworld.wolfram.com/NormalMatrix.html",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Normal form of a matrix",
+      "title": " Normal form (for matrices)  | Encyclopedia of Mathematics",
+      "url": "https://encyclopediaofmath.org/wiki/Normal_form_(for_matrices)",
+      "sourceType": "other"
+  },
+  {
       "topic": "Nature of quadratic form",
       "title": " Nature of Quadratic forms(Problem)  | Alex Maths Engineering",
       "url": "https://www.youtube.com/embed/d8KUQSefUC8",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Nature of quadratic form",
       "title": " Checking if a Matrix is Positive Definite  | Florian Ludewig",
       "url": "https://www.youtube.com/embed/ttMZB5Gm_fM",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Nature of quadratic form",
       "title": " Quadratic Form  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/QuadraticForm.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Nature of quadratic form",
       "title": " Indefinite Quadratic Form  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/IndefiniteQuadraticForm.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Nature of quadratic form",
       "title": " Positive Definite Quadratic Form  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/PositiveDefiniteQuadraticForm.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Nature of quadratic form",
       "title": " Positive Semidefinite Quadratic Form  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/PositiveSemidefiniteQuadraticForm.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Nature of quadratic form",
       "title": " Negative Definite Matrix  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/NegativeDefiniteMatrix.html",
       "sourceType": "other"
-    },
-    {
-      "topic": "Properties of Eigenvalues and Eigenvectors",
-      "sourceType": "youtube",
-      "title": "Properties of Eigenvalues",
-      "url": "https://www.youtube.com/embed/7GOVm99SO3A"
-    },
-    {
-      "topic": "Properties of Eigenvalues and Eigenvectors",
-      "sourceType": "youtube",
-      "title": "Properties of Eigenvalues and Eigenvectors",
-      "url": "https://www.youtube.com/embed/rX3uwRdEYqM"
-    },
-    {
-      "topic": "Properties of Eigenvalues and Eigenvectors",
-      "sourceType": "youtube",
-      "title": "Properties of Eigenvalues",
-      "url": "https://www.youtube.com/embed/BGmTRu7WYoA"
-    },
-    {
-      "topic": "Properties of Eigenvalues and Eigenvectors",
-      "sourceType": "youtube",
-      "title": "Properties of Eigenvalues & Examples",
-      "url": "https://www.youtube.com/embed/3crZ-ogrQsM"
-    },
-    {
-      "topic": "Properties of Eigenvalues and Eigenvectors",
-      "title": " Properties of Eigen values and vectors   | Wolfram MathWorld",
-      "url": "https://mathworld.wolfram.com/Eigenvalue.html",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Properties of Eigenvalues and Eigenvectors",
-      "title": " Properties of Eigen values and vectors  | Unacademy",
-      "url": "https://unacademy.com/content/jee/study-material/physics/properties-of-eigenvalues/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Properties of Eigenvalues and Eigenvectors",
-      "title": " Properties of Eigen values and vectors  | Geeks for Geeks",
-      "url": "https://www.geeksforgeeks.org/eigen-values/",
-      "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Rank of a matrix",
       "title": " Rank of a matrix | Wrath of Maths",
       "url": "https://www.youtube.com/embed/cSj82GG6MX4",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Rank of a matrix",
       "title": " Rank of a matrix | YSR Channel",
       "url": "https://www.youtube.com/embed/SEpm1Lww-j4",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Rank of a matrix",
       "title": " Rank of a matrix | Btechguru BodhBridge ESPL Channel",
       "url": "https://www.youtube.com/embed/TWKc-pSkxHs",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Rank of a matrix",
       "title": " Rank of a matrix | Geeks for Geeks",
       "url": "https://www.geeksforgeeks.org/rank-of-matrix/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Rank of a matrix",
       "title": "Echelon form and finding the rank of the matrix | BrainKart.com",
       "url": "https://www.brainkart.com/article/Echelon-form-and-finding-the-rank-of-the-matrix-(upto-the-order-of-3--4)_38881/",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Rank of a matrix",
       "title": " Rank of a matrix | Vedantu",
       "url": "https://www.vedantu.com/maths/matrix-rank",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Rank of a matrix",
       "title": "Rank of a matrix by echelon form  | Wrath of Math",
       "url": "https://www.youtube.com/embed/cSj82GG6MX4",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Rank of a matrix",
       "title": "Method to find Rank Of Matrix | By Echelon Form | Prof. Yogesh Prabhu ",
       "url": "https://www.youtube.com/embed/WvJ6U_tnPIQ&t=9s",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Rank of a matrix by echelon form",
-      "title": "Echelon form and finding the rank of the matrix | BrainKart.com",
-      "url": "https://www.brainkart.com/article/Echelon-form-and-finding-the-rank-of-the-matrix-(upto-the-order-of-3--4)_38881/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Rank of a matrix by echelon form",
-      "title": " Rank of a matrix | Vedantu",
-      "url": "https://www.vedantu.com/maths/matrix-rank",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Rank of a matrix by echelon form",
-      "title": "Rank of a matrix by echelon form  | Wrath of Math",
-      "url": "https://www.youtube.com/embed/cSj82GG6MX4",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Rank of a matrix by echelon form",
-      "title": "Method to find Rank Of Matrix | By Echelon Form | Prof. Yogesh Prabhu ",
-      "url": "https://www.youtube.com/embed/WvJ6U_tnPIQ&t=9s",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Rank of a matrix by normal form",
-      "title": " Rank of a matrix | Wrath of Maths",
-      "url": "https://www.youtube.com/embed/cSj82GG6MX4",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Rank of a matrix by normal form",
-      "title": " Rank of a matrix | Geeks for Geeks",
-      "url": "https://www.geeksforgeeks.org/rank-of-matrix/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Rank of a matrix by normal form",
-      "title": "Method to find Rank Of Matrix | By Normal Form | Prof. Yogesh Prabhu ",
-      "url": "https://www.youtube.com/embed/kaphHRq39JI?start=48&end=649",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Rank of a matrix by normal form",
-      "title": "Normal form of a matrix | Neeraj Saxena ",
-      "url": "https://www.youtube.com/embed/41a4NniwKbA?start=222&end=742",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Rank of a matrix by normal form",
-      "title": "Rank of a matrix | Cuemath",
-      "url": "https://www.cuemath.com/algebra/rank-of-a-matrix/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Rank of a matrix by normal form",
-      "title": "Rank of Matrix by Reducing into Normal Form  Canonical Form | TEAM Education",
-      "url": "https://www.youtube.com/embed/WvJ6U_tnPIQ",
-      "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Reduction to diagonal form",
       "title": " Reduction to diagonal form | EASY MATHS EASY TRICKS",
       "url": "https://www.youtube.com/embed/LbnY-QKo-rA",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Reduction to diagonal form",
       "title": " Reduction to diagonal form | EASY MATHS EASY TRICKS",
       "url": "https://www.youtube.com/embed/PX_oyNPyEls",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Reduction to diagonal form",
       "title": " Matrix Diagonalization  | Geeks for Geeks",
       "url": "https://www.geeksforgeeks.org/matrix-diagonalization/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Reduction of quadratic form to canonical form",
       "title": " Reduction of quadratic form to canonical form | Khan Academy",
       "url": "https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/v/expressing-a-quadratic-form-with-a-matrix",
       "sourceType": "khan_academy"
-    },
-    {
+  },
+  {
       "topic": "Reduction of quadratic form to canonical form",
       "title": " Reduction of quadratic form to canonical form | Sreekanth Reddy",
       "url": "https://www.youtube.com/embed/DaI9cWx-uzw",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Reduction of quadratic form to canonical form",
       "title": " Reduction of quadratic form to canonical form | Alex Math Engineering",
       "url": "https://www.youtube.com/embed/g2Xvd1h6Kdw",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Reduction of quadratic form to canonical form",
       "title": " Reduction of quadratic form to canonical form | meeramaths",
       "url": "https://www.youtube.com/embed/s49gP19panE",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Reduction of quadratic form to canonical form",
       "title": " Reduction of quadratic | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/QuadraticForm.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Related matrices",
       "title": " Related Matrices | Andrew Misseldine",
       "url": "https://www.youtube.com/embed/5E8kE7riLHc",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Related matrices",
       "title": " Related Matrices | The Bright Side of Mathematics channel",
       "url": "https://www.youtube.com/embed/U0lJ50dmsv0",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Related matrices",
       "title": " Similar matrices   | Geeks for Geeks",
       "url": "https://www.geeksforgeeks.org/similar-matrix/",
       "sourceType": "other"
-    },
-    {
-      "topic": "Diagonalization of matrices",
-      "sourceType": "youtube",
-      "title": "Full Example: Diagonalizing a Matrix",
-      "url": "https://www.youtube.com/embed/ieWyx2mlZyk"
-    },
-    {
-      "topic": "Diagonalization of matrices",
-      "sourceType": "youtube",
-      "title": "Diagonalization of matrices | Linear Algebra",
-      "url": "https://www.youtube.com/embed/QdO7O4y10Z8"
-    },
-    {
-      "topic": "Diagonalization of matrices",
-      "sourceType": "other",
-      "title": "Matrix diagonalization",
-      "url": "https://www.statlect.com/matrix-algebra/matrix-diagonalization"
-    },
-    {
-      "topic": "Diagonalization of matrices",
-      "sourceType": "youtube",
-      "title": "Diagonalize a 3 by 3 Matrix (Full Process)",
-      "url": "https://www.youtube.com/embed/H74flsYlQ1w"
-    },
-    {
-      "topic": "Diagonalization of matrices",
-      "sourceType": "youtube",
-      "title": "Diagonalization",
-      "url": "https://www.youtube.com/embed/WTLl03D4TNA"
-    },
-    {
-      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
-      "sourceType": "youtube",
-      "title": "Powers of a matrix using the Cayley-Hamilton theorem",
-      "url": "https://www.youtube.com/embed/GzqgJyisFvo"
-    },
-    {
-      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
-      "sourceType": "youtube",
-      "title": "Cayley Hamilton : Inverse of a matrix | Mathspedia ",
-      "url": "https://www.youtube.com/embed/qJ-zw_meMQ0"
-    },
-    {
-      "topic": "Finding inverse and power of a matrix by Cayley-Hamilton theorem",
-      "sourceType": "youtube",
-      "title": "Finding Powers of a Matrix using Cayley Hamilton Theorem",
-      "url": "https://www.youtube.com/embed/0xmI4xZxFe4"
-    },
-    {
+  },
+  {
       "topic": "Solution of linear system of equations",
       "title": " Solution of linear system of equations  | The Organic Chemistry Tutor",
       "url": "https://www.youtube.com/embed/DrZJKdXlZ3I",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Solution of linear system of equations",
       "title": " Solution of linear system of equations  | Khan Academy",
       "url": "https://www.khanacademy.org/math/algebra-2-fl-best/x727ff003d4fc3b92:linear-equations-inequalities-and-systems",
       "sourceType": "khan_academy"
-    },
-    {
+  },
+  {
       "topic": "Solution of linear system of equations",
       "title": " Solution of linear system of equations  | Khan Academy",
       "url": "https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:introduction-to-systems-of-equations/v/testing-a-solution-for-a-system-of-equations",
       "sourceType": "khan_academy"
-    },
-    {
+  },
+  {
       "topic": "Solution of linear system of equations",
       "title": " Solution of linear equations  | Geeks for Geeks",
       "url": "https://www.geeksforgeeks.org/system-linear-equations/?ref=lbp",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Special matrices",
       "title": " Special matrices | The bright Side of mathematics",
       "url": "https://www.youtube.com/embed/QWgrKZTbmI8",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Special matrices",
       "title": " Special matrices | Jeffrey Chasnov",
       "url": "https://www.youtube.com/embed/N2VlHqWyll8",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Special matrices",
       "title": " Special matrices | Roles Academy",
       "url": "https://www.youtube.com/embed/mI4Re7_PSqI",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Special matrices",
       "title": " Special Matrices | Unacademy",
       "url": "https://unacademy.com/content/upsc/study-material/mathematics/special-matrices/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Vectors and linear dependence",
       "title": " Vectors and linear dependence | Khan Academy",
       "url": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence",
       "sourceType": "khan_academy"
-    },
-    {
+  },
+  {
       "topic": "Vectors and linear dependence",
       "title": " Vectors and linear dependence | Khan Academy",
       "url": "https://www.youtube.com/embed/Alhcv5d_XOs",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Vectors and linear dependence",
       "title": " Vectors and linear dependence | patrickJMT",
       "url": "https://www.youtube.com/embed/yLi8RxqfowA",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Vectors and linear dependence",
       "title": "Linear dependence | Geeks for Geeks",
       "url": "https://www.geeksforgeeks.org/linear-independence/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Vectors and linear dependence",
       "title": "Linear dependence | Textbook ",
       "url": "https://testbook.com/maths/linearly-independent-vectors",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Vectors and linear dependence",
       "title": "Linear dependence | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/LinearlyDependentVectors.html",
       "sourceType": "other"
-    },
-    {
-      "topic": "L U Decomposition",
-      "title": "L U Decomposition | GeeksForGeeks",
-      "url": "https://www.geeksforgeeks.org/l-u-decomposition-system-linear-equations/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "L U Decomposition",
-      "title": "L U Decomposition | BYZU'S",
-      "url": "https://byjus.com/maths/lu-decomposition/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "L U Decomposition",
-      "title": "LU Factorization / LU Decomposition | Numerical Methods - An Example Calculation | StudySession",
-      "url": "https://www.youtube.com/embed/PORf7vXejbQ",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "L U Decomposition",
-      "title": "LU Decomposition Example | Numerical Methods | StudySession",
-      "url": "https://www.youtube.com/embed/KbYSqIkkCTY",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "L U Decomposition",
-      "title": "L U Decomposition | GeeksForGeeks",
-      "url": "https://www.geeksforgeeks.org/l-u-decomposition-system-linear-equations/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "L U Decomposition",
-      "title": "L U Decomposition | BYZU'S",
-      "url": "https://byjus.com/maths/lu-decomposition/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "L U Decomposition",
-      "title": "LU Factorization / LU Decomposition | Numerical Methods - An Example Calculation | StudySession",
-      "url": "https://www.youtube.com/embed/PORf7vXejbQ&ab_channel=StudySession",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "L U Decomposition",
-      "title": "LU Decomposition Example | Numerical Methods | StudySession",
-      "url": "https://www.youtube.com/embed/KbYSqIkkCTY&ab_channel=StudySession",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Lagrange’s Mean-value theorem",
+  },
+  {
+      "topic": "Lagrange\u00e2\u20ac\u2122s Mean-value theorem",
       "title": "Verify Lagrange's Mean value theorem | ALEX MATHS ENGINEERING",
       "url": "https://www.youtube.com/embed/9I8QkV032NI",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Lagrange’s Mean-value theorem",
+  },
+  {
+      "topic": "Lagrange\u00e2\u20ac\u2122s Mean-value theorem",
       "title": "Lagranges Mean Value Theorem |  Dr. Mathaholic",
       "url": "https://www.youtube.com/embed/yAlDUJRif7k?start=34&end=332",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Lagrange’s Mean-value theorem",
+  },
+  {
+      "topic": "Lagrange\u00e2\u20ac\u2122s Mean-value theorem",
       "title": "Verify Lagranges Mean Value Theorem for \\(f(x)=x+1/x\\) at \\([1/2 , 2]\\) | Alex Maths Engineering",
       "url": "https://www.youtube.com/embed/JOvRU6SGqpI",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Lagrange’s Mean-value theorem",
+  },
+  {
+      "topic": "Lagrange\u00e2\u20ac\u2122s Mean-value theorem",
       "title": "Lagrange's Mean Value Theorem: Statement, Proof, Graph & Examples | GeeksForGeeks",
       "url": "https://www.geeksforgeeks.org/lagranges-mean-value-theorem/",
       "sourceType": "other"
-    },
-    {
-      "topic": "Lagrange’s Mean-value theorem",
+  },
+  {
+      "topic": "Lagrange\u00e2\u20ac\u2122s Mean-value theorem",
       "title": "Lagrange Mean Value Theorem Formula: Examples And Solution | PhysicsWallah",
       "url": "https://www.pw.live/exams/school/lagrange-mean-value-theorem-formula/",
       "sourceType": "other"
-    },
-    {
-      "topic": "Cauchy’s Mean value theorem",
+  },
+  {
+      "topic": "Cauchy\u00e2\u20ac\u2122s Mean value theorem",
       "title": "Cauchy's Mean Value Theorem: Visual Proof | Math Easy Solutions",
       "url": "https://www.youtube.com/embed/VxH89U2E1bQ",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Cauchy’s Mean value theorem",
+  },
+  {
+      "topic": "Cauchy\u00e2\u20ac\u2122s Mean value theorem",
       "title": "Cauchy's Mean Value Theorem | Cengage Exam Crack | G Tewani | Crack JEE 2022 | Mathematics | Cengage India",
       "url": "https://www.youtube.com/embed/idrIU6AVp5k?start=18&end=495",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Cauchy’s Mean value theorem",
+  },
+  {
+      "topic": "Cauchy\u00e2\u20ac\u2122s Mean value theorem",
       "title": "Cauchys Mean Value Theorem: Introduction, History and Solved Examples | Vedantu",
       "url": "https://www.vedantu.com/maths/cauchys-mean-value-theorem",
       "sourceType": "other"
-    },
-    {
-      "topic": "Cauchy’s Mean value theorem",
+  },
+  {
+      "topic": "Cauchy\u00e2\u20ac\u2122s Mean value theorem",
       "title": "Cauchy's Mean Value Theorem: Statement, Proof and Examples | GeeksforGeeks",
       "url": "https://www.geeksforgeeks.org/cauchys-mean-value-theorem/",
       "sourceType": "other"
-    },
-    {
-      "topic": "Rolle’s theorem",
+  },
+  {
+      "topic": "Rolle\u00e2\u20ac\u2122s theorem",
       "title": "Rolle's Theorem with Examples | Marios Math Tutoring",
       "url": "https://www.youtube.com/embed/M2b2ok-jto4",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Rolle’s theorem",
+  },
+  {
+      "topic": "Rolle\u00e2\u20ac\u2122s theorem",
       "title": "Rolle's Theorem and Lagrange's Mean Value Theorem with Examples | GeeksforGeeks ",
       "url": "https://www.geeksforgeeks.org/rolles-theorem-and-lagranges-mean-value-theorem/?ref=lbp",
       "sourceType": "other"
-    },
-    {
-      "topic": "Rolle’s theorem",
+  },
+  {
+      "topic": "Rolle\u00e2\u20ac\u2122s theorem",
       "title": "Simplifying Rolles theorem | Functions and Calculus by Professor Calculish ",
       "url": "https://www.youtube.com/embed/3Ei8yHLqypo",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Rolle’s theorem",
-      "title": "Rolle’s theorem | Definition, Equation, & Facts | Britannica ",
+  },
+  {
+      "topic": "Rolle\u00e2\u20ac\u2122s theorem",
+      "title": "Rolle\u00e2\u20ac\u2122s theorem | Definition, Equation, & Facts | Britannica ",
       "url": "https://www.britannica.com/science/Rolles-theorem",
       "sourceType": "other"
-    },
-    {
-      "topic": "Rolle’s theorem",
+  },
+  {
+      "topic": "Rolle\u00e2\u20ac\u2122s theorem",
       "title": "Rolles theorem and Mean value theorem | Alex Maths Engineering ",
       "url": "https://www.youtube.com/embed/eUcdZAxjxBQ",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
+      "topic": "Rolle\u00e2\u20ac\u2122s theorem",
+      "title": "Rolle's Theorem | Mathispower4u",
+      "url": "https://www.youtube.com/embed/2_FCYzch8ww",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Rolle\u00e2\u20ac\u2122s theorem",
+      "title": "Rolle's Theorem with Examples| Mario's Math Tutoring ",
+      "url": "https://www.youtube.com/embed/M2b2ok-jto4",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Rolle\u00e2\u20ac\u2122s theorem",
+      "title": "Problem 1 on Rolle's Theorem| Tutorials Point",
+      "url": "https://www.youtube.com/embed/C-lSEGMYEuA",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Rolle\u00e2\u20ac\u2122s theorem",
+      "title": "Rolle's Theorem | Byjus",
+      "url": "https://byjus.com/maths/rolles-theorem-and-lagranges-mean-value-theorem/",
+      "sourceType": "other"
+  },
+  {
+      "topic": "Rolle\u00e2\u20ac\u2122s theorem",
+      "title": "Rolle's Theorem | Testbook",
+      "url": "https://www.bing.com/search?q=rolles+theorem&cvid=f33c1a070bfb4b8399cf910e0b9fc733&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0OTI0ajBqOagCALACAA&FORM=ANAB01&PC=U531",
+      "sourceType": "other"
+  },
+  {
       "topic": "Curve tracing",
       "title": "Introduction to Curve Tracing - Engineering Mathematics 2 | Ekeeda ",
       "url": "https://www.youtube.com/embed/2thV1cS-V9Y",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Curve tracing",
       "title": "Curve Tracing: Fundamentals, Techniques, and Examples Explained | GeeksforGeeks ",
       "url": "https://www.geeksforgeeks.org/curve-sketching/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Curve tracing",
       "title": " Tracing of Cartesian Curve |  Engineering Mathematics  | Magic Marks ",
       "url": "https://www.youtube.com/embed/CFB0mMd_0Q8",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Concavity",
       "title": "Concavity, Inflection Points, and Second Derivative | The Organic Chemistry Tutor",
       "url": "https://www.youtube.com/embed/OhqNbQi9QPk",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Concavity",
       "title": "Concavity review | Khan Academy ",
       "url": "https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-6b/a/concavity-review",
       "sourceType": "khan_academy"
-    },
-    {
+  },
+  {
       "topic": "Concavity",
       "title": "Concavity, inflection points and second derivative  | The infinite Looper ",
       "url": "https://www.youtube.com/embed/3TJLOCYrTes",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Concavity",
       "title": "Concavity and second derivative | Mathematics LibreTexts ",
       "url": "https://math.libretexts.org/Bookshelves/Calculus/Calculus_3e_(Apex)/03%3A_The_Graphical_Behavior_of_Functions/3.04%3A_Concavity_and_the_Second_Derivative",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Concavity",
       "title": "Inflection Points and Concavity Intuition | Khan Academy ",
       "url": "https://www.youtube.com/embed/dIE22eL6q90",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Concavity",
       "title": "5.4 Concavity and inflection points | The Whitman College ",
       "url": "https://www.whitman.edu/mathematics/calculus_online/section05.04.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Convexity",
       "title": " Convexity and Concavity/ Applications of Derivatives-2/ NPA Teaching/ Dr. Abdul Azeez N.P | NPA Teaching ",
       "url": "https://www.youtube.com/embed/gbBTzs4nUwk?start=63&end=231",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Convexity",
       "title": "Convex functions and derivatives | Mathematics LibreTexts ",
       "url": "https://math.libretexts.org/Bookshelves/Analysis/Introduction_to_Mathematical_Analysis_I_(Lafferriere_Lafferriere_and_Nguyen)/04%3A_Differentiation/4.06%3A_Section_6-",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Derivative of arc",
       "title": "  Derivatives of Inverse Trigonometric Functions | The Organic Chemistry Tutor ",
       "url": "https://www.youtube.com/embed/KbYW9FDm-Zk",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Derivative of arc",
       "title": " Derivatives of Inverse Trig Functions | Calculus 1 | Math with professor v",
       "url": "https://www.youtube.com/embed/J2HmfIvDVCo",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Derivative of arc",
       "title": "  Derivatives of the Inverse Trigonometric Functions | Mathematics LibreTexts",
       "url": "https://math.libretexts.org/Bookshelves/Calculus/Supplemental_Modules_(Calculus)/Differential_Calculus/Differential_Calculus_(Seeburger)/Derivatives_of_the_Inverse_Trigonometric_Functions",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Derivative of arc",
       "title": " Derivatives of the Inverse Trigonometric Functions | GeeksforGeeks",
       "url": "https://www.geeksforgeeks.org/differentiation-of-inverse-trigonometric-functions/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Evolute",
       "title": " Evolute Problem 1  |Differential Calculus | Engineering Maths | Alex Math Engineering",
       "url": "https://www.youtube.com/embed/gTplmjWXRUc",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Evolute",
       "title": " Evolute Problem 3  |Differential Calculus | Engineering Maths | Alex Math Engineering",
       "url": "https://www.geeksforgeeks.org/elementary-operations-on-matrices/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Evolute",
       "title": " Evolute -- from Wolfram MathWorld | Wolfram mathworld",
       "url": "https://mathworld.wolfram.com/Evolute.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Evolute",
       "title": " The evolute of a curve | Interactive Mathematics",
       "url": "https://www.intmath.com/math-art-code/evolute.php",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Increasing and decreasing functions",
       "title": " Increasing and decreasing functions | The Organic Chemistry Tutor",
       "url": "https://www.youtube.com/embed/Dyl7jPlJXOM",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Increasing and decreasing functions",
       "title": " Increasing and decreasing functions | 1st class maths",
       "url": "https://www.youtube.com/embed/RIz409Altzc?start=21&end=108",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Increasing and decreasing functions",
       "title": "Find decreasing interval for the function | Khan academy",
       "url": "https://www.youtube.com/embed/KblYjo1Ijws",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Increasing and decreasing functions",
       "title": " Increasing and decreasing functions| Mathematics LibreTexts ",
       "url": "https://math.libretexts.org/Bookshelves/Calculus/Calculus_3e_(Apex)/03%3A_The_Graphical_Behavior_of_Functions/3.03%3A_Increasing_and_Decreasing_Functions",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Increasing and decreasing functions",
       "title": " Increasing and decreasing functions | Cuemath",
       "url": "https://www.cuemath.com/calculus/increasing-and-decreasing-functions/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Increasing and decreasing functions",
       "title": " Increasing and decreasing functions | Khan Academy",
       "url": "https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-3/a/increasing-and-decreasing-intervals-review",
       "sourceType": "khan_academy"
-    },
-    {
+  },
+  {
       "topic": "Indeterminate forms",
       "title": " Indeterminate Forms | The infinite Looper",
       "url": "https://www.youtube.com/embed/pb7V0KSy2ts?start=32&end=394",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Indeterminate forms",
       "title": " Indeterminate Forms | BriTheMathGuy",
       "url": "https://www.youtube.com/embed/oEEXnyupzdo",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Indeterminate forms",
       "title": " Indeterminate Forms | Vedantu",
       "url": "https://www.vedantu.com/maths/indeterminate-forms",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Indeterminate forms",
-      "title": " Indeterminate Form & L'Hôpital's Rule | Simon Fraser university",
+      "title": " Indeterminate Form & L'H\u00c3\u00b4pital's Rule | Simon Fraser university",
       "url": "https://www.sfu.ca/math-coursenotes/Math%20157%20Course%20Notes/sec_Hopital.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Angle of intersection of two curves",
       "title": " Angle of Intersection of two curves| Heather Whitehead",
       "url": "https://www.youtube.com/embed/WcaYnv9TVOU",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Angle of intersection of two curves",
       "title": " Angle of Intersection of two curves | Easy maths easy tricks",
       "url": "https://www.youtube.com/embed/TH45kJkKQr0",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Angle of intersection of two curves",
       "title": " Angle of Intersection between Two Curves: Steps, Conditions, and Solved Examples | Testbook.com",
       "url": "https://testbook.com/maths/angle-of-intersection-between-two-curves#:~:text=Identify%20the%20point%20of%20intersection,the%20angle%20between%20the%20curves",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Angle of intersection of two curves",
       "title": " Angle of Intersection of two curves | askIITians",
       "url": "https://www.askiitians.com/iit-jee-differential-calculus/tangents-and-normal/angle-between-two-curves.aspx",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Asymptotes",
       "title": " Find Vertical and Horizontal asymptotes | Brian Mclogan",
       "url": "https://www.youtube.com/embed/YlEFGmfiNis",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Asymptotes",
       "title": "Vertical asymptotes  | NancyPi",
       "url": "https://www.youtube.com/embed/V137qmDN9Qw?start=28&end=354",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Asymptotes",
       "title": "Horizontal asymptotes | NancyPi",
       "url": "https://www.youtube.com/embed/qJrrZQgSkO8",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Asymptotes",
       "title": " Asymptotes  | Vedantu",
       "url": "https://www.vedantu.com/maths/asymptotes",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Asymptotes",
       "title": " Asymptotes  | Cuemath",
       "url": "https://www.cuemath.com/calculus/asymptotes/",
       "sourceType": "other"
-    },
-    {
-      "topic": "Leibnitz’s theorem",
+  },
+  {
+      "topic": "Leibnitz\u00e2\u20ac\u2122s theorem",
       "title": "Leibniz's Theorem | ExamSolution",
       "url": "https://www.youtube.com/embed/EJUVs_p912o",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Leibnitz’s theorem",
+  },
+  {
+      "topic": "Leibnitz\u00e2\u20ac\u2122s theorem",
       "title": " Leibniz's Theorem - Example | ExamSolution",
       "url": "https://www.youtube.com/embed/IdicXMLEEe8",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Leibnitz’s theorem",
+  },
+  {
+      "topic": "Leibnitz\u00e2\u20ac\u2122s theorem",
       "title": "Leibniz's Theorem Problem No.1 | Ekeeda",
       "url": "https://www.youtube.com/embed/QeWrQ9Fz3Wo",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Leibnitz’s theorem",
+  },
+  {
+      "topic": "Leibnitz\u00e2\u20ac\u2122s theorem",
       "title": " Leibniz Theorem | GeeksForGeeks",
       "url": "https://www.geeksforgeeks.org/leibnitz-theorem/",
       "sourceType": "other"
-    },
-    {
-      "topic": "Leibnitz’s theorem",
+  },
+  {
+      "topic": "Leibnitz\u00e2\u20ac\u2122s theorem",
       "title": "Leibniz Theorem | Byjus",
       "url": "https://byjus.com/maths/leibnitz-theorem/",
       "sourceType": "other"
-    },
-    {
-      "topic": "Taylor’s series",
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s series",
       "title": " Taylor & Maclaurin polynomials intro (part 2) |Khan Academy",
       "url": "https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-11/v/generalized-taylor-series-approximation",
       "sourceType": "khan_academy"
-    },
-    {
-      "topic": "Taylor’s series",
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s series",
       "title": "Taylor & Maclaurin polynomials intro (part 1)  | Khan Academy",
       "url": "https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-11/v/maclaurin-and-taylor-series-intuition",
       "sourceType": "khan_academy"
-    },
-    {
-      "topic": "Taylor’s series",
-      "title": "Taylor’s Series | Byjus",
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s series",
+      "title": "Taylor\u00e2\u20ac\u2122s Series | Byjus",
       "url": "https://byjus.com/maths/taylor-series/",
       "sourceType": "other"
-    },
-    {
-      "topic": "Taylor’s series",
-      "title": " Taylor’s Series  | Wolfram MathWorld",
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s series",
+      "title": " Taylor\u00e2\u20ac\u2122s Series  | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/TaylorSeries.html",
       "sourceType": "other"
-    },
-    {
-      "topic": "Taylor’s theorem",
-      "title": " The Proof of TAYLOR'S THEOREM | Kyle Broder",
-      "url": "https://www.youtube.com/embed/y87iKV5PU24",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Taylor’s series",
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s series",
       "title": " Taylor Series Problem 1 | The Organic Chemistry Tutor",
       "url": "https://www.youtube.com/embed/LDBnS4c7YbA?start=430&end=644",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Taylor’s theorem",
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem",
+      "title": " The Proof of TAYLOR'S THEOREM | Kyle Broder",
+      "url": "https://www.youtube.com/embed/y87iKV5PU24",
+      "sourceType": "youtube"
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem",
       "title": " Taylor's Theorem - Introduction | slcmath@pc",
       "url": "https://www.youtube.com/embed/_PyuMFBvj8g",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Taylor’s theorem",
-      "title": " Taylor's Theorem - Introduction | slcmath@pc",
-      "url": "https://www.youtube.com/embed/_PyuMFBvj8g",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Taylor’s theorem",
-      "title": " Taylor’s Theorem | Math Monks",
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem",
+      "title": " Taylor\u00e2\u20ac\u2122s Theorem | Math Monks",
       "url": "https://mathmonks.com/remainder-theorem/taylors-theorem",
       "sourceType": "other"
-    },
-    {
-      "topic": "Taylor’s theorem",
-      "title": "Taylor’s Theorem | Wolfram MathWorld",
+  },
+  {
+      "topic": "Taylor\u00e2\u20ac\u2122s theorem",
+      "title": "Taylor\u00e2\u20ac\u2122s Theorem | Wolfram MathWorld",
       "url": "https://mathworld.wolfram.com/TaylorsTheorem.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Maclaurin Series",
       "title": " Finding the Maclaurin Series for a Function  | vinteachesmath",
       "url": "https://www.youtube.com/embed/iWLqCtH_Fnc",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Maclaurin’s series",
+  },
+  {
+      "topic": "Maclaurin\u00e2\u20ac\u2122s series",
       "title": " Maclaurines Series | Mohsin Ali 14",
       "url": "https://www.youtube.com/embed/Un1Ys8iZvP4",
       "sourceType": "youtube"
-    },
-    {
-      "topic": "Maclaurin’s series",
+  },
+  {
+      "topic": "Maclaurin\u00e2\u20ac\u2122s series",
       "title": " Taylor & Maclaurin polynomials intro (part 1)  | Khan Academy",
       "url": "https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-11/v/maclaurin-and-taylor-series-intuition",
       "sourceType": "khan_academy"
-    },
-    {
-      "topic": "Maclaurin’s series",
+  },
+  {
+      "topic": "Maclaurin\u00e2\u20ac\u2122s series",
       "title": " Worked Example: Maclaurin Polynomial  | Khan Academy",
       "url": "https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-11/v/maclaurin-polynomial-example",
       "sourceType": "khan_academy"
-    },
-    {
-      "topic": "Maclaurin’s series",
+  },
+  {
+      "topic": "Maclaurin\u00e2\u20ac\u2122s series",
       "title": " Maclaurines Series  | Byjus",
       "url": "https://byjus.com/maclaurin-series-formula/",
       "sourceType": "other"
-    },
-    {
-      "topic": "Maclaurin’s series",
+  },
+  {
+      "topic": "Maclaurin\u00e2\u20ac\u2122s series",
       "title": "  Maclaurines Series  | graficmaths.com",
       "url": "https://www.graphicmaths.com/pure/maclaurin-taylor/maclaurin-method/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Maxima & Minima",
       "title": " Finding Local Maxima and Minima by Differentiation | Professor Dave Explains",
       "url": "https://www.youtube.com/embed/pvLj1s7SOtk",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Maxima & Minima",
       "title": " Differentiation (Maxima and Minima) | 1st Class Maths",
       "url": "https://www.youtube.com/embed/y9M6kmgSnw8",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Maxima & Minima",
       "title": "Critical Points Introduction | Khan Academy",
       "url": "https://www.youtube.com/embed/lDY9JcFaRd4",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Maxima & Minima",
       "title": " Maxima and Minima | Geeks for Geeks",
       "url": "https://www.geeksforgeeks.org/maxima-and-minima/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Maxima & Minima",
       "title": " Maxima and Minima | Math is fun",
       "url": "https://www.mathsisfun.com/calculus/maxima-minima.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Pedal equation",
       "title": " Pedal equation of the curve using basic formula | EASY MATHS EASY TRICKS",
       "url": "https://www.youtube.com/embed/X4WPYZ9t0IM",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Pedal equation",
       "title": " Pedal Equation | JK Academy",
       "url": "https://www.youtube.com/embed/mdvJlptTDP8",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Pedal equation",
       "title": " How to solve easily pedal equation of the curve  | EASY MATHS EASY TRICKS",
       "url": "https://www.youtube.com/embed/jwYjpj-iHLQ",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Pedal equation",
       "title": " Pedal Equation | GeeksForGeeks",
       "url": "https://www.geeksforgeeks.org/pedal-equation/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Pedal equation",
       "title": " Pedal Equation| Stack Exchange",
       "url": "https://math.stackexchange.com/questions/3934033/find-the-pedal-equation-of-the-curve-y2-4axa",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Point on inflexion",
       "title": " Inflection Point Introduction | Khan academy",
       "url": "https://www.youtube.com/embed/UK2shgCXALo",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Point on inflexion",
       "title": " Inflection Point ( Graphical ) | Khan academy",
       "url": "https://www.youtube.com/embed/iWgW2nD4wGQ",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Point on inflexion",
       "title": " Inflection Point (Algebraic) | Khan academy",
       "url": "https://www.youtube.com/embed/RoxefQ_Qgm8",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Point on inflexion",
-      "title": " Inflection Point | BYJU’S",
+      "title": " Inflection Point | BYJU\u00e2\u20ac\u2122S",
       "url": "https://byjus.com/maths/inflection-point/#:~:text=The%20point%20of%20inflection%20or%20inflection%20point%20is,vice%20versa%20is%20known%20as%20an%20inflection%20point.",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Point on inflexion",
       "title": " Inflection Point | Wolfram Mathworld",
       "url": "https://mathworld.wolfram.com/InflectionPoint.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Polar curves",
       "title": " Differentiation for Polar Curves   | JK academy",
       "url": "https://www.youtube.com/embed/Ug3QXDoIHRg",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Polar curves",
       "title": " Polar curves Problem solving | ExamSolution",
       "url": "https://www.youtube.com/embed/kx_1IiykGiA",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Polar curves",
       "title": " How to Graph Any Polar Curves: Cardioid Example solving  | Glass of numbers",
       "url": "https://www.youtube.com/embed/wEfJ8e1CQrs",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Polar curves",
       "title": " Polar Curves | The story of mathematics",
       "url": "https://www.storyofmathematics.com/polar-curves/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Radius of curvature",
       "title": " Radius of curvature Problem 2| Alex Maths",
       "url": "https://www.youtube.com/embed/kRWxYRHVQRM",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Radius of curvature",
       "title": " Radius of curvature Problem 1 | Alex Maths",
       "url": "https://www.youtube.com/embed/5YArUGIdD6c",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Radius of curvature",
       "title": " Radius of curvature Problem 3 | Alex Maths",
       "url": "https://www.youtube.com/embed/530wRkgFu8Q",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Radius of curvature",
       "title": " Radius of curvature Problem 4 | Ekeeda",
       "url": "https://www.youtube.com/embed/ksmZMW28wMg",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Radius of curvature",
       "title": " Radius of Curvature Formula: Definition, Formula with Solved Examples  | Testbook",
       "url": "https://testbook.com/maths-formulas/radius-of-curvature-formula",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Radius of curvature",
       "title": "Radius of curvature | Wolfram Mathworld",
       "url": "https://mathworld.wolfram.com/RadiusofCurvature.html",
       "sourceType": "other"
-    },
-    {
-      "topic": "Rolle’s theorem",
-      "title": "Rolle's Theorem | Mathispower4u",
-      "url": "https://www.youtube.com/embed/2_FCYzch8ww",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Rolle’s theorem",
-      "title": "Rolle's Theorem with Examples| Mario's Math Tutoring ",
-      "url": "https://www.youtube.com/embed/M2b2ok-jto4",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Rolle’s theorem",
-      "title": "Problem 1 on Rolle's Theorem| Tutorials Point",
-      "url": "https://www.youtube.com/embed/C-lSEGMYEuA",
-      "sourceType": "youtube"
-    },
-    {
-      "topic": "Rolle’s theorem",
-      "title": "Rolle's Theorem | Byjus",
-      "url": "https://byjus.com/maths/rolles-theorem-and-lagranges-mean-value-theorem/",
-      "sourceType": "other"
-    },
-    {
-      "topic": "Rolle’s theorem",
-      "title": "Rolle's Theorem | Testbook",
-      "url": "https://www.bing.com/search?q=rolles+theorem&cvid=f33c1a070bfb4b8399cf910e0b9fc733&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0OTI0ajBqOagCALACAA&FORM=ANAB01&PC=U531",
-      "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Successive differentiation",
       "title": "Nth Derivative of Exponential Function - Successive differentiation | Ekeeda",
       "url": "https://www.youtube.com/embed/pkzz75IsKbI",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Successive differentiation",
       "title": "Successive differentiation | Calculus made easy",
       "url": "https://www.calculusmadeeasy.org/7.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Successive differentiation",
       "title": "Successive differentiation | Avidemia",
       "url": "https://avidemia.com/calculus-made-easy/ch7/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Successive differentiation",
       "title": "Successive differentiation | Mathstrix",
       "url": "https://www.youtube.com/embed/tBtF3Lr-VLk?start=348&end=566",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Successive differentiation",
       "title": "Successive differentiation| Mathstrix",
       "url": "https://www.youtube.com/embed/tBtF3Lr-VLk?start=348&end=568",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Successive differentiation",
       "title": "Successive differentiation | Mathstrix",
       "url": "https://www.youtube.com/embed/tBtF3Lr-VLk?start=568&end=737",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Tangents & Normals",
       "title": "Differentiation : Tangents and Normals| ExamSolution",
       "url": "https://www.youtube.com/embed/Iu67T-NcXvc",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Tangents & Normals",
       "title": "Tangents and Normals |Neha Agrawal Mathematically Inclined",
       "url": "https://www.youtube.com/embed/eHDUI3pNEn8?start=296&end=360",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Tangents & Normals",
       "title": "Tangents and Normals | Cuemath",
       "url": "https://www.cuemath.com/geometry/tangents-and-normals/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Tangents & Normals",
       "title": "Tangents and Normals | GeeksforGeeks",
       "url": "https://www.geeksforgeeks.org/tangents-and-normals/",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Chord of curvature",
       "title": "Circles - Chords, Radius & Diameter - Basic Introduction - Geometry| The organic chemistry tutor",
       "url": "https://www.youtube.com/embed/Bczg2VIDfhE?start=41&end=276",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Chord of curvature",
       "title": "How to find length of chord in a circle. | Wrath of Math",
       "url": "https://www.youtube.com/embed/5F8Et8oADEc",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Chord of curvature",
       "title": "Average length of a chord of circle. | Michael Penn",
       "url": "https://www.youtube.com/embed/th9FcMiJ6Tc",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Chord of curvature",
       "title": "Curvature | Blogger",
       "url": "https://easy-to-understand-maths.blogspot.com/2019/03/curvature.html",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Envelope",
       "title": "Evolute as envelope of Normal Problem 1| | Differential Calculus | Engineering Maths| Alex maths Engineering",
       "url": "https://www.youtube.com/embed/OsjYJh3Nmx0",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Envelope",
       "title": "Envelope Problem 23 | Differential Calculus | Engineering Maths | Alex maths Engineering",
       "url": "https://www.youtube.com/embed/-n15AmKVT2Q",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Envelope",
       "title": "Evolute as envelope of Normal Problem 4 | Differential Calculus | Engineering Maths | Alex maths Engineering",
       "url": "https://www.youtube.com/embed/H7md0vvSXlc",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Envelope",
       "title": "Envelope | Britannica",
       "url": "https://www.britannica.com/science/envelope-mathematics",
       "sourceType": "other"
-    },
-    {
+  },
+  {
       "topic": "Centre of curvature",
       "title": "Centre and Circle of Curvature Problem 2 |Differential Calculus | Engineering Maths| Alex maths Engineering",
       "url": "https://www.youtube.com/embed/aVHvhfQo53k",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Centre of curvature",
       "title": "Centre and Circle of Curvature Problem 3 |Differential Calculus | Engineering Maths | Alex maths Engineering",
       "url": "https://www.youtube.com/embed/x9ujvsEXIeE",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Centre of curvature",
       "title": "Centre and Circle of Curvature - Polar Curve - Engineering Mathematics - 2 | Ekeeda",
       "url": "https://www.youtube.com/embed/QtpZVWDPg1k?start=137&end=214",
       "sourceType": "youtube"
-    },
-    {
+  },
+  {
       "topic": "Centre of curvature",
       "title": " Centre of curvature| Byjus",
       "url": "https://byjus.com/question-answer/define-the-term-centre-of-curvature/",
       "sourceType": "other"
-    }
-] 
+  }
+]

@@ -168,6 +168,22 @@
     "unit": "3"
   },
   {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Eigen values and eigen vectors of complex matrices (1) | Real-Life Examples (English)",
+    "url": "https://www.youtube.com/embed/R13Cwgmpuxc",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
+    "topic": "Eigen values and eigen vectors of complex matrices",
+    "sourceType": "youtube",
+    "title": "Eigen values and eigen vectors of complex matrices (2) | Real-Life Examples (English)",
+    "url": "https://www.youtube.com/embed/i8FukKfMKCI",
+    "lang": "english",
+    "unit": "3"
+  },
+  {
     "topic": "Quadratic forms :Reduction of Quadratic form to canonical",
     "title": " Reduction of quadratic form to canonical form | Khan Academy",
     "url": "https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/v/expressing-a-quadratic-form-with-a-matrix",
@@ -229,6 +245,14 @@
     "title": "Reduction of Quadratic Form to Canonical Form 2 | (Hindi)",
     "url": "https://www.youtube.com/embed/HKzb3Elu1nA?start=60",
     "lang": "hindi",
+    "unit": "3"
+  },
+  {
+    "topic": "Quadratic forms: Reduction of Quadratic form to canonical",
+    "sourceType": "article",
+    "title": "Quadratic forms: Reduction of Quadratic form to canonical (1) | Real-Life Examples (English)",
+    "url": "https://www.geeksforgeeks.org/canonical-and-standard-form/",
+    "lang": "english",
     "unit": "3"
   },
   {
