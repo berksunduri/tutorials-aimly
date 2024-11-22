@@ -33,9 +33,9 @@ export default function VideoCard({ tutorial }: { tutorial: Tutorial }) {
         !tutorial.sourceType.includes("other") && (
           <div className="absolute top-2 right-2 text-yellow-400">
             {isVisualExplanation ? (
-              <FaEye size={24} color="#7cae32"/>
+              <FaEye size={24} color="#7cae32" />
             ) : (
-              <IoEarth size={24} color="#7cae32"/>
+              <IoEarth size={24} color="#7cae32" />
             )}
           </div>
         )}
@@ -48,7 +48,13 @@ export default function VideoCard({ tutorial }: { tutorial: Tutorial }) {
             <CollapsibleTrigger asChild>
               <Button
                 variant="default"
-                className="w-full bg-primary hover:bg-primary/80"
+                className={`w-full ${
+                  isVisualExplanation
+                    ? "bg-purple hover:bg-purple/50"
+                    : isRealLifeApplication
+                    ? "bg-purple hover:bg-purple/50"
+                    : "bg-primary hover:bg-primary/80"
+                }`}
               >
                 <div className="flex items-center justify-between w-full">
                   <div className="flex items-center">
